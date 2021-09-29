@@ -10,9 +10,9 @@ for FILE in contracts/**/*json; do
 done
 
 echo; echo "Testing contract entries..."
-yajsv -s schemas/contract.json contracts/**/*.json
+~/go/bin/yajsv -s schemas/contract.json contracts/**/*.json
 
 echo; echo "Testing project entries..."
-yajsv -s schemas/project.json projects/*.json
+~/go/bin/yajsv -s schemas/project.json projects/*.json
 
 echo; echo "Success"
