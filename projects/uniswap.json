@@ -1,0 +1,21 @@
+{
+  "name": "Uniswap",
+  "website": "https://uniswap.org/",
+  "social": {
+    "github": "Uniswap",
+    "twitter": "Uniswap",
+    "everest": "0xa2e07f422b5d7cbbfca764e53b251484ecf945fa",
+    "coingecko": "coins/uniswap"
+  },
+  "token": {
+    "chainId": 1,
+    "address": "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+    "symbol": "UNI",
+    "name": "Uniswap",
+    "decimals": 18
+  },
+  "contacts": {
+    "contact": "contact@uniswap.org",
+    "security": "security@uniswap.org"
+  }
+}
