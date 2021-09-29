@@ -1,0 +1,19 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/ethereum-lists/contracts/schemas/contract.json",
+  "title": "Contract",
+  "description": "A contract entry at a specific chain and address",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["project"],
+  "properties": {
+    "project": { "type": "string", "description": "Project name as found in the projects folder" },
+    "name": { "type": "string", "description": "User-friendly name of the contract" },
+    "contractName": { "type": "string", "description": "Name of the contract in the Solidity source code" },
+    "tags": {
+      "type": "array",
+      "uniqueItems": true,
+      "items": { "enum": ["factory", "proxy"] }
+    }
+  }
+}

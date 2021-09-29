@@ -1,0 +1,43 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/ethereum-lists/contracts/schemas/project.json",
+  "title": "Project",
+  "description": "A project in the Ethereum space",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["name"],
+  "properties": {
+    "name": { "type": "string", "description": "User-friendly name of the project" },
+    "website": { "type": "string", "format": "url", "description": "Main website" },
+    "token": {
+      "type": "object",
+      "required": ["chainId", "address"],
+      "additionalProperties": false,
+      "properties": {
+        "chainId": { "type": "number" },
+        "address": { "type": "string", "pattern": "^0x[a-fA-F0-9]{40}$" },
+        "name": { "type": "string" },
+        "symbol": { "type": "string" },
+        "decimals": { "type": "number" }
+      }
+    },
+    "social": { 
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "coingecko": { "type": "string", "description": "Coingecko path" },
+        "github": { "type": "string", "description": "Github organization" },
+        "twitter": { "type": "string", "description": "Twitter handle" },
+        "everest": { "type": "string", "description": "Everest.link project id", "pattern": "^0x[a-fA-F0-9]{40}$" }
+      }
+    },
+    "contacts": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "security": { "type": "string", "format": "email", "description": "Security contact email" },
+        "contact": { "type": "string", "format": "email", "description": "Main contact email" }
+      }
+    }
+  }
+}
