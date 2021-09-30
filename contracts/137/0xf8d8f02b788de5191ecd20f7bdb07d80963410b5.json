@@ -1,0 +1,8 @@
+{
+  "project": "superfluid",
+  "features": {
+    "factory": "0xd15d5d0f5b1b56a4daef75cfe108cb825e97d015"
+  },
+  "name": "SuperTokenFactory",
+  "source": "dune"
+}

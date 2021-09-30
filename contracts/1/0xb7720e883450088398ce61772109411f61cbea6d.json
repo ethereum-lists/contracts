@@ -1,0 +1,8 @@
+{
+  "project": "dhedge",
+  "features": {
+    "factory": "0x03d20ef9bdc19736f5e8baf92d02c8661a5941f7"
+  },
+  "name": "FundPool",
+  "source": "dune"
+}

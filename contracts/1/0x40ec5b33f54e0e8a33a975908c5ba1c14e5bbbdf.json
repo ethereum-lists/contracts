@@ -1,0 +1,5 @@
+{
+  "project": "matic",
+  "name": "ERC20Predicate",
+  "source": "dune"
+}

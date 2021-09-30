@@ -1,0 +1,5 @@
+{
+  "project": "bprotocol",
+  "name": "BCdpManager",
+  "source": "dune"
+}

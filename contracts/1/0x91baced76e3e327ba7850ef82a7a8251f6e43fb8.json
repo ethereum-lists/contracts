@@ -1,0 +1,5 @@
+{
+  "project": "idle_dao",
+  "name": "MinimalInitializableProxyFactory",
+  "source": "dune"
+}

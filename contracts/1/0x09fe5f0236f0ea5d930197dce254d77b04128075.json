@@ -1,0 +1,5 @@
+{
+  "project": "cryptokitties",
+  "name": "WrappedCryptoKitties",
+  "source": "dune"
+}

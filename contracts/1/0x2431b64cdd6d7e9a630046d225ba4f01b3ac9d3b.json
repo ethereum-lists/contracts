@@ -1,0 +1,8 @@
+{
+  "project": "jarvis_network",
+  "features": {
+    "factory": "0x3845ba5b94358abb3654410278a3fd889e6d64a5"
+  },
+  "name": "SynthereumPoolOnChainPriceFeed",
+  "source": "dune"
+}

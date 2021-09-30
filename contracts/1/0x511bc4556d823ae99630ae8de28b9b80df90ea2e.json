@@ -1,0 +1,5 @@
+{
+  "project": "livepeer",
+  "name": "BondingManager",
+  "source": "dune"
+}

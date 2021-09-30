@@ -1,0 +1,5 @@
+{
+  "project": "chainlink",
+  "name": "EACAggregatorProxy_v2",
+  "source": "dune"
+}

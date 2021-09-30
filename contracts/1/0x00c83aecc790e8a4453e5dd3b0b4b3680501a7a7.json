@@ -1,0 +1,5 @@
+{
+  "project": "skale",
+  "name": "SkaleToken",
+  "source": "dune"
+}

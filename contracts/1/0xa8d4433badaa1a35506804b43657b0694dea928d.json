@@ -1,0 +1,8 @@
+{
+  "project": "element",
+  "features": {
+    "factory": "0xb7561f547f3207edb42a6afa42170cd47add17bd"
+  },
+  "name": "ConvergentCurvePool",
+  "source": "dune"
+}

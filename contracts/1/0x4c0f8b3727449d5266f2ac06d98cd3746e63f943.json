@@ -1,0 +1,5 @@
+{
+  "project": "centrifuge",
+  "name": "collateral",
+  "source": "dune"
+}

@@ -1,0 +1,5 @@
+{
+  "project": "common_stack",
+  "name": "CommonsStackToken",
+  "source": "dune"
+}

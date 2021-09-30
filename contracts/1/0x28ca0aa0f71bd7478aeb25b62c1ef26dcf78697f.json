@@ -1,0 +1,8 @@
+{
+  "project": "charm",
+  "features": {
+    "factory": "0x443ec3dc7840c3eb610a2a80068dfe3c56822e86"
+  },
+  "name": "OptionMarket_v0.1",
+  "source": "dune"
+}

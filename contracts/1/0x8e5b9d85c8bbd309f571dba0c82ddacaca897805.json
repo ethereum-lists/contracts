@@ -1,0 +1,8 @@
+{
+  "project": "yape",
+  "features": {
+    "factory": "0x46adc1c052fafd590f56c42e379d7d16622835a2"
+  },
+  "name": "YapePair",
+  "source": "dune"
+}

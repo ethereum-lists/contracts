@@ -1,0 +1,8 @@
+{
+  "project": "goldfinch",
+  "features": {
+    "factory": "0xd20508e1e971b80ee172c73517905bfffcbd87f9"
+  },
+  "name": "MigratedTranchedPool",
+  "source": "dune"
+}

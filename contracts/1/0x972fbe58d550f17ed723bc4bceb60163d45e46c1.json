@@ -1,0 +1,8 @@
+{
+  "project": "mirror",
+  "features": {
+    "factory": "0x45bd6a721582bc7c61562a6cd4590c391899a759"
+  },
+  "name": "CrowdfundLogic",
+  "source": "dune"
+}

@@ -1,0 +1,5 @@
+{
+  "project": "curvefi",
+  "name": "gusd_gauge",
+  "source": "dune"
+}

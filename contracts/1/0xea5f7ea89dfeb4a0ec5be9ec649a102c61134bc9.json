@@ -1,0 +1,8 @@
+{
+  "project": "moloch_v21",
+  "features": {
+    "factory": "0x38064f40b20347d58b326e767791a6f79cdeddce"
+  },
+  "name": "Moloch",
+  "source": "dune"
+}

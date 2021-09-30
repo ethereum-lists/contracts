@@ -1,0 +1,8 @@
+{
+  "project": "olympus",
+  "features": {
+    "factory": "0xb1f69decb09d8490e3872fe26d27a7b83493cd65"
+  },
+  "name": "CustomBond",
+  "source": "dune"
+}

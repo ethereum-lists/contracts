@@ -1,0 +1,8 @@
+{
+  "project": "moloch_v2",
+  "features": {
+    "factory": "0xf5106077892992b84c33c35ca8763895eb80b298"
+  },
+  "name": "UberHausMinion",
+  "source": "dune"
+}

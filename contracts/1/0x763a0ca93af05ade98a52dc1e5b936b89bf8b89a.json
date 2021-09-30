@@ -1,0 +1,5 @@
+{
+  "project": "chainport",
+  "name": "ChainportMainBridge",
+  "source": "dune"
+}

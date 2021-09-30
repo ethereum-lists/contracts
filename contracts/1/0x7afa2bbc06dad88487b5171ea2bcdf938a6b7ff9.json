@@ -1,0 +1,5 @@
+{
+  "project": "trams",
+  "name": "TramsToken",
+  "source": "dune"
+}

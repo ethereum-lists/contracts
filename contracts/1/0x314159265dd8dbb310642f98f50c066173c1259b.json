@@ -1,0 +1,5 @@
+{
+  "project": "ethereumnameservice",
+  "name": "ENSRegistry",
+  "source": "dune"
+}

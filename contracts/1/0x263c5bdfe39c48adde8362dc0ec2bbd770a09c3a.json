@@ -1,0 +1,8 @@
+{
+  "project": "aloe",
+  "features": {
+    "factory": "0xec0c69449dbc79cb3483fc3e3a4285c8a2d3dd45"
+  },
+  "name": "AloePredictions",
+  "source": "dune"
+}

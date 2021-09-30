@@ -1,0 +1,5 @@
+{
+  "project": "balancer_v2",
+  "name": "WeightedPool",
+  "source": "dune"
+}

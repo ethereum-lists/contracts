@@ -1,0 +1,5 @@
+{
+  "project": "curvefi",
+  "name": "musd_swap",
+  "source": "dune"
+}

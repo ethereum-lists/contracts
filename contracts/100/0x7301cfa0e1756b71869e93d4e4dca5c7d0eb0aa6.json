@@ -1,0 +1,5 @@
+{
+  "project": "xdai_bridge",
+  "name": "HomeBridgeErcToNative",
+  "source": "dune"
+}

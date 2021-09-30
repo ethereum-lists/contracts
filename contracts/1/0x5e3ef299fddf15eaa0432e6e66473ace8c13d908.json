@@ -1,0 +1,5 @@
+{
+  "project": "matic",
+  "name": "StakeManager",
+  "source": "dune"
+}

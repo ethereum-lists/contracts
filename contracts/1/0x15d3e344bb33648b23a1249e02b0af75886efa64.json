@@ -1,0 +1,8 @@
+{
+  "project": "synfutures_v1",
+  "features": {
+    "factory": "0x6e893ddfa75d67febb853e00f81c913c151bf9a9"
+  },
+  "name": "Amm",
+  "source": "dune"
+}

@@ -1,0 +1,5 @@
+{
+  "project": "sifchain",
+  "name": "BridgeToken",
+  "source": "dune"
+}
