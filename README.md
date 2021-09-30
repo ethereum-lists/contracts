@@ -2,6 +2,14 @@
 
 This list is an effort to identify deployed contracts instances given their chain and address, by listing the project they belong to, along with some basic features. The goal is to be able to provide information about an address when a user is interacting with it, as well as tracking security contact information for known projects in the event that a vulnerability is found in a given contract address.
 
+## Contracts entries
+
+Each contract entry is stored in a separate file at `contracts/CHAINID/ADDRESS.json`, where the `CHAINID` is the EIP155 numeric identifier of the chain (as listed in chainlist.org), and `ADDRESS` is the checksummed deployment address. Each entry contains at least a `project` field, that maps to an entry in the `projects` folder (see below), as well as:
+
+- `name`: User-friendly name of the contract
+- `contractName`: Name of the contract in the Solidity source code
+- `tags`: Properties of the contract, such as `factory` or `proxy`
+
 Example from `contracts/1/0x1F98431c8aD98523631AE4a59f267346ea31F984.json`:
 
 ```json
@@ -12,14 +20,6 @@ Example from `contracts/1/0x1F98431c8aD98523631AE4a59f267346ea31F984.json`:
   "tags": ["factory"]
 }
 ```
-
-## Contracts entries
-
-Each contract entry is stored in a separate file at `contracts/CHAINID/ADDRESS.json`, where the `CHAINID` is the EIP155 numeric identifier of the chain (as listed in chainlist.org), and `ADDRESS` is the checksummed deployment address. Each entry contains at least a `project` field, that maps to an entry in the `projects` folder (see below), as well as:
-
-- `name`: User-friendly name of the contract
-- `contractName`: Name of the contract in the Solidity source code
-- `tags`: Properties of the contract, such as `factory` or `proxy`
 
 Contract entries are validated against the [`contract.json`](./schemas/contract.json) JSON schema. Refer to it for the full specification of fields admitted in a contract entry.
 
