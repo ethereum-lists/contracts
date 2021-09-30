@@ -2,15 +2,19 @@
 
 This list is an effort to identify deployed contracts instances given their chain and address, by listing the project they belong to, along with some basic features. The goal is to be able to provide information about an address when a user is interacting with it, as well as tracking security contact information for known projects in the event that a vulnerability is found in a given contract address.
 
+**Work in progress**
+
 ## Contracts entries
 
-Each contract entry is stored in a separate file at `contracts/CHAINID/ADDRESS.json`, where the `CHAINID` is the EIP155 numeric identifier of the chain (as listed in chainlist.org), and `ADDRESS` is the checksummed deployment address. Each entry contains at least a `project` field, that maps to an entry in the `projects` folder (see below), as well as:
+Each contract entry is stored in a separate file at `contracts/CHAINID/ADDRESS.json`, where the `CHAINID` is the EIP155 numeric identifier of the chain (as listed in chainlist.org), and `ADDRESS` is the lowercase deployment address. Each entry contains at least a `project` field, that maps to an entry in the `projects` folder (see below), as well as:
 
 - `name`: User-friendly name of the contract
 - `contractName`: Name of the contract in the Solidity source code
-- `tags`: Properties of the contract, such as `factory` or `proxy`
+- `source`: Where the contract entry was imported from
+- `tags`: List of properties of the contract, such as `factory` or `proxy`
+- `features`: Extended features of the contract
 
-Example from `contracts/1/0x1F98431c8aD98523631AE4a59f267346ea31F984.json`:
+Example from `contracts/1/0x1f98431c8ad98523631ae4a59f267346ea31f984.json`:
 
 ```json
 {
@@ -68,6 +72,10 @@ Example from `projects/uniswap.json`:
 
 Project entries are validated against the [`project.json`](./schemas/project.json) JSON schema. Refer to it for the full specification of fields admitted in a project entry.
 
+## Acknowledgements
+
+- [Dune Analytics](https://dune.xyz/) for providing an initial set of over 200,000 labelled contracts from their databases.
+
 ## Contributing
 
 To add a new set of contracts and/or projects, open a pull request with the corresponding files. Make sure that they match the format required by the schemas, and that every contract entry has a corresponding project entry. Thanks for helping!
@@ -75,3 +83,4 @@ To add a new set of contracts and/or projects, open a pull request with the corr
 ## Maintainers
 
 - [OpenZeppelin](http://github.com/OpenZeppelin/)
+- [Dune](https://github.com/duneanalytics)
