@@ -10,10 +10,14 @@
     "project": { "type": "string", "description": "Project name as found in the projects folder" },
     "name": { "type": "string", "description": "User-friendly name of the contract" },
     "contractName": { "type": "string", "description": "Name of the contract in the Solidity source code" },
+    "source": { "type": "string", "description": "Source of this entry" },
     "tags": {
       "type": "array",
       "uniqueItems": true,
       "items": { "enum": ["factory", "proxy"] }
+    },
+    "features": {
+      "factory": { "type": "string", "pattern": "^0x[a-fA-F0-9]{40}$", "description": "Factory that created this contract" }
     }
   }
 }
