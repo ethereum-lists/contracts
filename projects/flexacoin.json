@@ -5,7 +5,6 @@
     "github": "flexacoin",
     "twitter": "FlexaHQ",
     "everest": "0xc738ca77885a2d95bd66d9c847a8f4ed414f53cc",
-    "coingecko": ""
   },
   "token": {
     "chainId": 1,
@@ -14,6 +13,4 @@
     "name": "",
     "decimals": 18
   },
-  "contacts": {
-  }
 }

@@ -1,3 +1,16 @@
 {
-  "name": "Oneinch"
+  "name": "Oneinch",
+  "website": "https://app.ichi.org/",
+  "social": {
+    "github": "ichifarm",
+    "twitter": "ichifarm",
+    "coingecko": "coins/stable-1inch"
+  },
+  "token": {
+    "chainId": 1,
+    "address": "0x853bb55c1f469902f088a629db8c8803a9be3857",
+    "symbol": "ONE1INCH",
+    "name": "Stable 1inch ",
+    "decimals": 18
+  },
 }

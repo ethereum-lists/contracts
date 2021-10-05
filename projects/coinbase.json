@@ -2,7 +2,7 @@
   "name": "Coinbase",
   "website": "https://www.coinbase.com/",
   "social": {
-    "github": "Uniswap",
+    "github": "coinbase",
     "twitter": "coinbase",
     "everest": "0x8d17b937b28838ec02800f9136328962d42c8919",
     "coingecko": "coins/"
@@ -14,6 +14,5 @@
     "name": "Coinbase",
     "decimals": 18
   },
-  "contacts": {
-  }
+ 
 }

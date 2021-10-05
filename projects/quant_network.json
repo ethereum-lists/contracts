@@ -14,8 +14,5 @@
     "name": "Quant",
     "decimals": 18
   },
-  "contacts": {
-    "contact": "contact@uniswap.org",
-    "security": "security@uniswap.org"
-  }
+ 
 }

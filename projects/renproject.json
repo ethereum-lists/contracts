@@ -1,3 +1,18 @@
 {
-  "name": "Renproject"
+  "name": "Renproject",
+  "website": "https://renproject.io/",
+  "social": {
+    "github": "renproject",
+    "twitter": "renprotocol",
+    "everest": "0xbe23341e59e015f279fe8344b578f1d08ba611f2",
+    "coingecko": "coins/ren"
+  },
+  "token": {
+    "chainId": 1,
+    "address": "0x408e41876cccdc0f92210600ef50372656052a38",
+    "symbol": "REN",
+    "name": "REN",
+    "decimals": 18
+  },
+  
 }

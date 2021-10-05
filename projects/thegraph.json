@@ -5,7 +5,7 @@
     "github": "graphprotocol",
     "twitter": "graphprotocol",
     "everest": "0xa2e07f422b5d7cbbfca764e53b251484ecf945fa",
-    "coingecko": "coins/uniswap"
+    "coingecko": "coins/the-graph"
   },
   "token": {
     "chainId": 1,

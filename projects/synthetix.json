@@ -5,7 +5,7 @@
     "github": "synthetixio",
     "twitter": "synthetix_io",
     "everest": "0x957a4ecd9b02e2f5021f5aa12cdb8d3201da81c8",
-    "coingecko": "synthetix-network-token"
+    "coingecko": "coins/synthetix-network-token"
   },
   "token": {
     "chainId": 1,
@@ -14,6 +14,4 @@
     "name": "Synthetix Network Token",
     "decimals": 18
   },
-  "contacts": {
-  }
-}
+ }

@@ -1,20 +1,3 @@
 {
   "name": "Cream",
-  "website": "https://cream.finance",
-  "social": {
-    "github": "CreamFi",
-    "twitter": "CreamdotFinance",
-    "everest": "0xfee998933f45ad524f8dbc23b8054b117e84d9e5",
-    "coingecko": "coins/cream"
-  },
-  "token": {
-    "chainId": 1,
-    "address": "0x2ba592f78db6436527729929aaf6c908497cb200",
-    "symbol": "CREAM",
-    "name": "Cream",
-    "decimals": 18
-  },
-  "contacts": {
-  }
-
 }
