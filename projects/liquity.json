@@ -1,3 +1,20 @@
 {
-  "name": "Liquity"
+  "name": "Liquity",
+  "website": "https://www.liquity.org/",
+  "social": {
+    "github": "liquity",
+    "twitter": "LiquityProtocol",
+    "everest": "0xa681324b574d2cc92b11b6cc6a8d6a2c82bf0e1d",
+    "coingecko": "coins/liquity"
+  },
+  "token": {
+    "chainId": 1,
+    "address": "0x6dea81c8171d0ba574754ef6f8b412f2ed88c54d",
+    "symbol": "LQTY",
+    "name": "Liquity",
+    "decimals": 18
+  },
+  "contacts": {
+    "contact": "contact@liquity.org"
+  }
 }

@@ -1,3 +1,19 @@
 {
-  "name": "Numerai"
+  "name": "Numerai",
+  "website": "https://erasure.world/",
+  "social": {
+    "github": "erasureprotocol",
+    "twitter": "numerai",
+    "everest": "0xf1b090a45c323f0ee3b3e9c660455af1eeacba20",
+    "coingecko": "coins/numeraire"
+  },
+  "token": {
+    "chainId": 1,
+    "address": "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+    "symbol": "NMR",
+    "name": "Numeraire",
+    "decimals": 18
+  },
+  "contacts": {
+  }
 }

@@ -1,3 +1,19 @@
 {
-  "name": "Decentraland"
+  "name": "Decentraland",
+  "website": "https://decentraland.org/",
+  "social": {
+    "github": "decentraland",
+    "twitter": "decentraland",
+    "everest": "0xae7adf6de87fc8735793c22514f4dd1a62cfcb8e",
+    "coingecko": "coins/decentraland"
+  },
+  "token": {
+    "chainId": 1,
+    "address": "0x0f5d2fb29fb7d3cfee444a200298f468908cc942",
+    "symbol": "MANA",
+    "name": "Decentraland",
+    "decimals": 18
+  },
+  "contacts": {
+  }
 }

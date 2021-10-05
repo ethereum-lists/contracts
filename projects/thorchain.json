@@ -1,0 +1,19 @@
+{
+  "name": "Thorchain",
+  "website": "https://thorchain.org/",
+  "social": {
+    "github": "thorchain",
+    "twitter": "THORChain",
+    "everest": "0xbd11cc3c22767db2246fc3b3428f561d88dcd67a",
+    "coingecko": "coins/thorchain"
+  },
+  "token": {
+    "chainId": 1,
+    "address": "0x3155ba85d5f96b2d030a4966af206230e46849cb",
+    "symbol": "RUNE",
+    "name": "THORChain",
+    "decimals": 56
+  },
+  "contacts": {
+  }
+}

@@ -1,3 +1,19 @@
 {
-  "name": "Curvefi"
+  "name": "Curvefi",
+  "website": "https://curve.fi/",
+  "social": {
+    "github": "curve-contract",
+    "twitter": "CurveFinance",
+    "everest": "0x1e33c5aece24b20329f2be21c0f0ece778bd38bc",
+    "coingecko": "curve-dao-token"
+  },
+  "token": {
+    "chainId": 1,
+    "address": "0xd533a949740bb3306d119cc777fa900ba034cd52",
+    "symbol": "CRV",
+    "name": "Curve-DAO-Token",
+    "decimals": 18
+  },
+  "contacts": {
+  }
 }

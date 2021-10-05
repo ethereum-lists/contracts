@@ -1,3 +1,19 @@
 {
-  "name": "Dydx"
+  "name": "Dydx",
+  "website": "https://uniswap.org/",
+  "social": {
+    "github": "dydxprotocol",
+    "twitter": "dydxprotocol",
+    "everest": "0x2cbb82377cacac5dabfe7c3ba04c08492de3f505",
+    "coingecko": "coins/dydx"
+  },
+  "token": {
+    "chainId": 1,
+    "address": "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+    "symbol": "DYDX",
+    "name": "dYdX",
+    "decimals": 18
+  },
+  "contacts": {
+  }
 }

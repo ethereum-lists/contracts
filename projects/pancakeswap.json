@@ -1,0 +1,19 @@
+{
+    "name": "PancakeSwap",
+    "website": "https://pancakeswap.finance/",
+    "social": {
+      "github": "pancakeswap",
+      "twitter": "pancakeswap",
+      "everest": "0x98216d52c5c7ab81637245aef10d236d42a8dc59",
+      "coingecko": "coins/pancakeswap"
+    },
+    "token": {
+      "chainId": 56,
+      "address": "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82",
+      "symbol": "CAKE",
+      "name": "PancakeSwap",
+      "decimals": 18
+    },
+    "contacts": {
+    }
+  }

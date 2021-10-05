@@ -1,3 +1,19 @@
 {
-  "name": "Flexacoin"
+  "name": "Flexacoin",
+  "website": "https://flexa.network/",
+  "social": {
+    "github": "flexacoin",
+    "twitter": "FlexaHQ",
+    "everest": "0xc738ca77885a2d95bd66d9c847a8f4ed414f53cc",
+    "coingecko": ""
+  },
+  "token": {
+    "chainId": 1,
+    "address": "0x4a57E687b9126435a9B19E4A802113e266AdeBde",
+    "symbol": "FXC",
+    "name": "",
+    "decimals": 18
+  },
+  "contacts": {
+  }
 }

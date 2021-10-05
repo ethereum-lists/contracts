@@ -1,3 +1,20 @@
 {
-  "name": "Yearn"
+  "name": "Yearn",
+  "website": "https://yearn.finance/",
+  "social": {
+    "github": "iearn-finance",
+    "twitter": "iearnfinance",
+    "everest": "0x5e9612e745e56e186b770392f1cde49d800b676d",
+    "coingecko": "coins/yearn-finance"
+  },
+  "token": {
+    "chainId": 1,
+    "address": "0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e",
+    "symbol": "YFI",
+    "name": "yearn.finance",
+    "decimals": 18
+  },
+  "contacts": {
+  }
+  
 }
