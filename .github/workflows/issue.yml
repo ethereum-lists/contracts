@@ -35,7 +35,7 @@ jobs:
         signoff: false
         branch: info/issue-${{github.event.issue.number}}
         delete-branch: true
-        title: 'Update info from ${{github.event.issue.number}}'
+        title: 'Update info from #${{github.event.issue.number}}'
         body: |
           Fixes #${{github.event.issue.number}}
         labels: |
