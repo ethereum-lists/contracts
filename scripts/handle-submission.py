@@ -19,7 +19,7 @@ def parse(input):
     print(line)
     match = re.match(r'^### (.+)$', line)
     if match:
-      if current_key and current_value: 
+      if current_key and current_value and current_value.strip() != "_No response_":
         result[current_key] = current_value.strip()
       current_key = match.group(1)
       current_value = ""
@@ -28,7 +28,7 @@ def parse(input):
     elif current_key:
       current_value = current_value + "\n" + line.strip()
   
-  if current_key and current_value: 
+  if current_key and current_value and current_value.strip() != "_No response_":
     result[current_key] = current_value.strip()
 
   if CONTRACT_ADDRESSES in result:
