@@ -1,3 +1,22 @@
 {
-  "name": "Illuvium"
+  "name": "Illuvium",
+  "website": "https://www.illuvium.io/",
+  "social": {
+    "github": "IlluviumGame",
+    "twitter": "illuviumio",
+    "coingecko": "coins/"
+  },
+  "token": {
+    "chainId": 1,
+    "address": "0x767fe9edc9e0df98e07454847909b5e959d7ca0e",
+    "symbol": "ILV",
+    "name": "Illuvium",
+    "decimals": 18
+  },
+  "contacts": {
+    "contact": "pedro@illuvium.io",
+    "security": ""
+  }
+
+
 }

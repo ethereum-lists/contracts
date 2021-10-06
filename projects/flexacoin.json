@@ -4,7 +4,7 @@
   "social": {
     "github": "flexacoin",
     "twitter": "FlexaHQ",
-    "everest": "0xc738ca77885a2d95bd66d9c847a8f4ed414f53cc",
+    "everest": "0xc738ca77885a2d95bd66d9c847a8f4ed414f53cc"
   },
   "token": {
     "chainId": 1,
@@ -12,5 +12,5 @@
     "symbol": "FXC",
     "name": "",
     "decimals": 18
-  },
+  }
 }
