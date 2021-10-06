@@ -7,7 +7,7 @@ on:
 jobs:
   handle-submission:
     name: Handle new submission
-    if: contains(github.event.issue.labels.*.name, 'update-info')
+    if: contains(github.event.issue.labels.*.name, 'update info')
     runs-on: ubuntu-latest
     
     steps:
@@ -25,7 +25,7 @@ jobs:
         ISSUE_BODY: ${{ github.event.issue.body }}
       run: |
         echo -e $ISSUE_BODY | python scripts/handle-submission.py
-        
+
     - name: Create Pull Request
       uses: peter-evans/create-pull-request@v3
       with:

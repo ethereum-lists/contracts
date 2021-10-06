@@ -1,7 +1,7 @@
 name: "Submit new entries"
 description: "Create or update project or contracts entries"
 title: "Update info for PROJECT_NAME"
-labels: ["update-info"]
+labels: ["update info"]
 body:
   - type: markdown
     attributes:
