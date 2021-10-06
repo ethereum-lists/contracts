@@ -99,6 +99,7 @@ def put_contract(data, address, name):
 def main():
   input = sys.stdin.read()
   data = parse(input.split("\n"))
+  print(f"Input: {data}")
   put_project(data)
   put_contracts(data)
 
