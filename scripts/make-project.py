@@ -8,7 +8,6 @@ def makeproject(project):
   name = " ".join(project.split("_")).title()
   return { "name": name }
 
-
 def main():
   projects = argv[1:]
   for project in projects:

@@ -1,0 +1,44 @@
+name: Info submitted
+
+on:
+  issues:
+    types: [opened, edited]
+
+jobs:
+  handle-submission:
+    name: Handle new submission
+    if: contains(github.event.issue.labels.*.name, 'update-info')
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: GitHub context
+      env:
+        GITHUB_CONTEXT: ${{ toJson(github) }}
+      run: |
+        echo "$GITHUB_CONTEXT"
+
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Update project and contracts
+      env:
+        ISSUE_BODY: ${{ github.event.issue.body }}
+      run: |
+        echo -e $ISSUE_BODY | python scripts/handle-submission.py
+        
+    - name: Create Pull Request
+      uses: peter-evans/create-pull-request@v3
+      with:
+        commit-message: "Update info from #${{github.event.issue.number}}"
+        committer: GitHub <noreply@github.com>
+        author: ${{ github.actor }} <${{ github.actor }}@users.noreply.github.com>
+        signoff: false
+        branch: info/issue-${{github.event.issue.number}}
+        delete-branch: true
+        title: 'Update info from ${{github.event.issue.number}}'
+        body: |
+          Fixes #${{github.event.issue.number}}
+        labels: |
+          update-info
+        draft: false
+
