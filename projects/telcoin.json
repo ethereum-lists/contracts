@@ -1,0 +1,20 @@
+{
+  "name": "Telcoin",
+  "website": "https://www.telco.in/",
+  "social": {
+    "github": "telcoin",
+    "twitter": "telcoin_team",
+    "everest": "0x84d51350a2a109288d6626b8fc7e8ce3a7b985de",
+    "coingecko": "coins/telcoin"
+  },
+  "token": {
+    "chainId": 1,
+    "address": "0x467bccd9d29f223bce8043b84e8c8b282827790f",
+    "symbol": "TEL",
+    "name": "Telcoin",
+    "decimals": 2
+  },
+  "contacts": {
+    "contact": "hello@telco.in",
+  }
+}

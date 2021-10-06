@@ -1,3 +1,18 @@
 {
-  "name": "Badgerdao"
+  "name": "Badgerdao",
+  "website": "https://app.badger.com/",
+  "social": {
+    "github": "Badger-Finance",
+    "twitter": "BadgerDAO",
+    "everest": "0x31490af982bdc5a5723b6010768447595bd2dbd3",
+    "coingecko": "coins/badger-dao"
+  },
+  "token": {
+    "chainId": 1,
+    "address": "0x3472a5a71965499acd81997a54bba8d852c6e53d",
+    "symbol": "BADGER",
+    "name": "Badger DAO",
+    "decimals": 18
+  },
+  
 }

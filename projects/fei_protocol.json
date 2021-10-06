@@ -1,3 +1,17 @@
 {
-  "name": "Fei Protocol"
+  "name": "Fei Protocol",
+  "website": "https://fei.money/",
+  "social": {
+    "github": "fei-protocol-core",
+    "twitter": "feiprotocol",
+    "coingecko": "coins/fei-protocol"
+  },
+  "token": {
+    "chainId": 1,
+    "address": "0x956f47f50a910163d8bf957cf5846d573e7f87ca",
+    "symbol": "FEI",
+    "name": "Fei Protocol",
+    "decimals": 18
+  },
+
 }

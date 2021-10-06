@@ -1,3 +1,17 @@
 {
-  "name": "Olympus"
+  "name": "Olympus",
+  "website": "https://www.olympusdao.finance/",
+  "social": {
+    "github": "OlympusDAO",
+    "twitter": "OlympusDAO",
+    "coingecko": "coins/olympus"
+  },
+  "token": {
+    "chainId": 1,
+    "address": "0x383518188c0c6d7730d91b2c03a03c837814a899",
+    "symbol": "OHM",
+    "name": "Olympus",
+    "decimals": 9
+  },
+
 }

@@ -1,0 +1,19 @@
+{
+  "name": "status",
+  "website": "https://status.im/",
+  "social": {
+    "github": "status-im",
+    "twitter": "ethstatus",
+    "everest": "0x21d2c00c5978d40bba0ad1589020db0720f6fd2b",
+    "coingecko": "coins/status"
+  },
+  "token": {
+    "chainId": 1,
+    "address": "0x744d70fdbe2ba4cf95131626614a1763df805b9e",
+    "symbol": "SNT",
+    "name": "Status",
+    "decimals": 18
+  },
+  "contacts": {
+    "security": "security@status.im."
+  }

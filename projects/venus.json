@@ -1,0 +1,18 @@
+{
+  "name": "Venus",
+  "website": "https://venus.io/",
+  "social": {
+    "github": "Venus-Protocol",
+    "twitter": "VenusProtocol",
+    "everest": "0x946e2142d47e1572d0626912231965ec05916b01",
+    "coingecko": "coins/venus"
+  },
+  "token": {
+    "chainId": 56,
+    "address": "0xcf6bb5389c92bdda8a3747ddb454cb7a64626c63",
+    "symbol": "XVS",
+    "name": "Venus",
+    "decimals": 18
+  },
+
+}

@@ -1,3 +1,20 @@
 {
-  "name": "Lido"
+  "name": "Lido",
+  "website": "https://stake.lido.fi/",
+  "social": {
+    "github": "lidofinance",
+    "twitter": "lidofinance",
+    "everest": "0x50c3cde4f99b90e75d94301f7d987e1759875652",
+    "coingecko": "coins/lido-dao"
+  },
+  "token": {
+    "chainId": 1,
+    "address": "0x5a98fcbea516cf06857215779fd812ca3bef1b32",
+    "symbol": "LDO",
+    "name": "Lido DAO",
+    "decimals": 18
+  },
+  "contacts": {
+    "contact": "info@lido.fi",
+  }
 }

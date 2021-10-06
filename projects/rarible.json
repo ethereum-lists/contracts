@@ -1,3 +1,16 @@
 {
-  "name": "Rarible"
+  "name": "Rarible",
+  "website": "https://rarible.com/rari",
+  "social": {
+    "twitter": "rarible",
+    "everest": "0x79f925a79391a793554fa9e4e1438cd9f5b33765",
+    "coingecko": "coins/rarible"
+  },
+  "token": {
+    "chainId": 1,
+    "address": "0xfca59cd816ab1ead66534d82bc21e7515ce441cf",
+    "symbol": "RARI",
+    "name": "Rarible",
+    "decimals": 18
+  },
 }

@@ -1,3 +1,19 @@
 {
-  "name": "Alchemix"
+  "name": "Alchemix",
+  "website": "https://alchemix.fi/",
+  "social": {
+    "github": "alchemix-finance",
+    "twitter": "AlchemixFi",
+    "coingecko": "coins/alchemix"
+  },
+  "token": {
+    "chainId": 1,
+    "address": "0xdbdb4d16eda451d0503b854cf79d55697f90c8df",
+    "symbol": "ALCX",
+    "name": "Alchemix",
+    "decimals": 18
+  },
+  "contacts": {
+    "contact": " admin@alchemix.fi",
+  }
 }
