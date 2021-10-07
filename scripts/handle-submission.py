@@ -21,7 +21,7 @@ def parse(input):
     if match:
       if current_key and current_value and current_value.strip() != "_No response_":
         result[current_key] = current_value.strip()
-      current_key = match.group(1)
+      current_key = match.group(1).strip()
       current_value = ""
     elif len(line.strip()) == 0:
       continue
