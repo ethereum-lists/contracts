@@ -5,7 +5,7 @@
   "description": "A project in the Ethereum space",
   "type": "object",
   "additionalProperties": false,
-  "required": ["name"],
+  "required": [],
   "properties": {
     "name": { "type": "string", "description": "User-friendly name of the project" },
     "website": { "type": "string", "format": "url", "description": "Main website" },
