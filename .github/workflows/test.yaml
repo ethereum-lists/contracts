@@ -26,3 +26,5 @@ jobs:
 
       - name: Test
         run: scripts/test.sh
+        env:
+          GIT_BASE: ${{ github.event.pull_request.base.sha }}

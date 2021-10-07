@@ -20,13 +20,33 @@ jobs:
     - name: Checkout code
       uses: actions/checkout@v2
 
+    - name: Cache golang modules
+      uses: actions/cache@v2
+      with:
+        path: |
+          ~/go
+        key: ${{ runner.os }}-go-v1
+        restore-keys: |
+          ${{ runner.os }}-go-
+    
+    - name: Install json-schema validator
+      run: go get neilpa.me/yajsv
+
     - name: Update project and contracts
       env:
         ISSUE_BODY: ${{ github.event.issue.body }}
       run: |
         echo -e "$ISSUE_BODY" | python scripts/handle-submission.py
 
-    - name: Create Pull Request
+    - name: Mark as added
+      run: git add -N .
+
+    - name: Test submission
+      run: scripts/test.sh
+      env:
+        GIT_BASE: main
+
+    - name: Create pull request
       uses: peter-evans/create-pull-request@v3
       with:
         commit-message: "Update info from #${{github.event.issue.number}}"
