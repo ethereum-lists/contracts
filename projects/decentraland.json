@@ -13,5 +13,8 @@
     "symbol": "MANA",
     "name": "Decentraland",
     "decimals": 18
+  },
+    "contacts": {
+    "contact": "hello@decentraland.org"
   }
 }

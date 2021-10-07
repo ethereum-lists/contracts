@@ -6,13 +6,5 @@
     "twitter": "coinbase",
     "everest": "0x8d17b937b28838ec02800f9136328962d42c8919",
     "coingecko": "coins/"
-  },
-  "token": {
-    "chainId": 1,
-    "address": "0x32f9063bc2a2a57bcbe26ef662dc867d5e6446d1",
-    "symbol": "COIN",
-    "name": "Coinbase",
-    "decimals": 18
   }
- 
 }

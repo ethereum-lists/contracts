@@ -13,5 +13,10 @@
     "symbol": "NMR",
     "name": "Numeraire",
     "decimals": 18
+  },
+    "contacts": {
+    "contact": "",
+    "security": "security@numer.ai"
   }
+
 }

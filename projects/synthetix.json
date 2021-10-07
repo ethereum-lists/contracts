@@ -13,5 +13,9 @@
     "symbol": "SNX",
     "name": "Synthetix Network Token",
     "decimals": 18
+  },
+    "contacts": {
+    "contact": "info@synthetix.io"
   }
+
  }

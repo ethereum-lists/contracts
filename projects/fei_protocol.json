@@ -12,6 +12,10 @@
     "symbol": "FEI",
     "name": "Fei Protocol",
     "decimals": 18
-  }
+  },
+    "contacts": {
+    "security": "team@immunefi.com"
+    }
+
 
 }

@@ -5,7 +5,7 @@
     "github": "keep-network/",
     "twitter": "keep_project",
     "everest": "0x28597775fc2959438310c1127ef1d5da2ef7fd60",
-    "coingecko": "coins/"
+    "coingecko": "coins/keep-network"
   },
   "token": {
     "chainId": 1,

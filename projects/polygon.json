@@ -13,6 +13,9 @@
     "symbol": "MATIC",
     "name": "Polygon",
     "decimals": 18
+  },
+    "contacts": {
+    "contact": "info@matic.network"
   }
-  
+
 }

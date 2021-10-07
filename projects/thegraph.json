@@ -12,7 +12,11 @@
     "address": "0xc944e90c64b2c07662a292be6244bdf05cda44a7",
     "symbol": "GRT",
     "name": "The Graph",
-    "decimals": 8
+    "decimals": 18
+  },
+    "contacts": {
+    "contact": "info@thegraph.com"
   }
- 
+
+
 }

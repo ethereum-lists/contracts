@@ -12,5 +12,9 @@
     "symbol": "ONE1INCH",
     "name": "Stable 1inch ",
     "decimals": 18
+  },
+    "contacts": {
+    "contact": "core@ichi.org"
   }
+
 }

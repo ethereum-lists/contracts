@@ -12,6 +12,9 @@
     "symbol": "OHM",
     "name": "Olympus",
     "decimals": 9
+  },
+   "contacts": {
+    "contact": "support@olympusdao.finance"
   }
 
 }

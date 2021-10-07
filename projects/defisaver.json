@@ -1,18 +1,9 @@
 {
   "name": "Defisaver",
-  "website": "https://indexed.finance/index/defi5",
+  "website": "https://defisaver.com/",
   "social": {
-    "github": "indexed-finance",
-    "twitter": "ndxfi",
-    "everest": "0xf2ea7446efd93b2d7b556eb309dae07e7f841274",
-    "coingecko": "coins/defi-top-5-index"
-  },
-  "token": {
-    "chainId": 1,
-    "address": "0xfa6de2697d59e88ed7fc4dfe5a33dac43565ea41",
-    "symbol": "DEFI5",
-    "name": "DEFI Top 5 Index",
-    "decimals": 18
+    "twitter": "DeFiSaver",
+    "everest": "0xf2ea7446efd93b2d7b556eb309dae07e7f841274"
   }
- 
+
 }

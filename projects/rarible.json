@@ -12,5 +12,8 @@
     "symbol": "RARI",
     "name": "Rarible",
     "decimals": 18
+  },
+    "contacts": {
+    "contact": "a@rarible.com"
   }
 }

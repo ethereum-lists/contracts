@@ -13,5 +13,10 @@
     "symbol": "BNT",
     "name": "Bancor Network Token",
     "decimals": 18
+  },
+    "contacts": {
+    "contact": "contact@bancor.network",
+    "security": "security@bancor.network"
   }
+
 }

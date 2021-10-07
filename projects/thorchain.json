@@ -13,5 +13,8 @@
     "symbol": "RUNE",
     "name": "THORChain",
     "decimals": 18
+  },
+    "contacts": {
+    "contact": "devs@thorchain.org"
   }
 }

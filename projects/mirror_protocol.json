@@ -1,3 +1,20 @@
 {
-  "name": "Mirror Protocol"
+  "name": "Mirror Protocol",
+  "website": "https://mirror.finance/",
+  "social": {
+    "github": "Mirror-Protocol",
+    "twitter": "mirror_protocol",
+    "coingecko": "coins/mirror-protocol"
+  },
+  "token": {
+    "chainId": 1,
+    "address": "0x09a3ecafa817268f77be1283176b946c4ff2e608",
+    "symbol": "MIR",
+    "name": "Mirror Protocol",
+    "decimals": 18
+  },
+    "contacts": {
+    "contact": "info@mirror.finance"
+  }
+
 }

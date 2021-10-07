@@ -4,7 +4,7 @@
   "social": {
     "github": "IlluviumGame",
     "twitter": "illuviumio",
-    "coingecko": "coins/"
+    "coingecko": "coins/illuvium"
   },
   "token": {
     "chainId": 1,
@@ -14,8 +14,7 @@
     "decimals": 18
   },
   "contacts": {
-    "contact": "pedro@illuvium.io",
-    "security": ""
+    "contact": "pedro@illuvium.io"
   }
 
 

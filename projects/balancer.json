@@ -3,13 +3,13 @@
   "website": "https://balancer.fi",
   "social": {
     "github": "balancer-labs",
-    "twitter": "",
+    "twitter": "BalancerLabs",
     "everest": "0x36476be3f2b2d87fde047e41b72a2b88830a90dc",
     "coingecko": "coins/balancer"
   },
   "token": {
     "chainId": 1,
-    "address": "ç",
+    "address": "0xba100000625a3754423978a60c9317c58a424e3d",
     "symbol": "BAL",
     "name": "Balancer",
     "decimals": 18

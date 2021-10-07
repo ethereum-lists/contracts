@@ -13,6 +13,9 @@
     "symbol": "XVS",
     "name": "Venus",
     "decimals": 18
+  },
+  "contacts": {
+    "security": "security@swipe.io."
   }
 
 }

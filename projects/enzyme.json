@@ -13,5 +13,8 @@
     "symbol": "MLN",
     "name": "Enzyme",
     "decimals": 18
+  },
+    "contacts": {
+    "contact": "council@enzyme.finance"
   }
 }

@@ -13,6 +13,9 @@
     "symbol": "AXS",
     "name": "Axie Infinity",
     "decimals": 18
+  },
+   "contacts": {
+    "contact": "hello@axieinfinity.com"
   }
-  
+
 }
