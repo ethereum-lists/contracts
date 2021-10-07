@@ -92,6 +92,8 @@ def put_contract(data, address, name):
   contract["project"] = data[PROJECT_ID]
   if name: contract["name"] = name
 
+  contract["source"] = 'github-form'
+
   with open(path, 'w') as outfile: 
     json.dump(contract, outfile, indent=2)
     print(f"Written {path}: {contract}")
