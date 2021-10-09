@@ -13,6 +13,9 @@
     "symbol": "REN",
     "name": "REN",
     "decimals": 18
+  },
+    "contacts": {
+    "contact": "support@renproject.io"
   }
-  
+
 }

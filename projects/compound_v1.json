@@ -13,6 +13,9 @@
     "symbol": "COMP",
     "name": "Compound",
     "decimals": 18
+  },
+ "contacts": {
+    "security": "security@compound.finance"
   }
 
 }

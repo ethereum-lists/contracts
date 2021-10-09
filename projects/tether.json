@@ -2,7 +2,6 @@
   "name": "Tether",
   "website": "https://tether.to/",
   "social": {
-    "github": "",
     "twitter": "Tether_to",
     "everest": "0x9c416f8c3ee1580810916fbc8b2997c1930cb93a",
     "coingecko": "coins/tether"
@@ -15,6 +14,7 @@
     "decimals": 6
   },
   "contacts": {
-    "contact": "cpress@tether.to"
-   } 
+    "contact": "support@tether.to",
+    "security": "security@tether.to "
+   }
   }

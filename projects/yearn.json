@@ -13,6 +13,8 @@
     "symbol": "YFI",
     "name": "yearn.finance",
     "decimals": 18
+  },
+    "contacts": {
+    "contact": "andre.cronje@yearn.finance"
   }
-
 }

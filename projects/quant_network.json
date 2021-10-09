@@ -13,6 +13,9 @@
     "symbol": "QNT",
     "name": "Quant",
     "decimals": 18
+  },
+    "contacts": {
+    "contact": "support@quant.network"
   }
- 
+
 }
