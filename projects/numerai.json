@@ -14,9 +14,7 @@
     "name": "Numeraire",
     "decimals": 18
   },
-    "contacts": {
-    "contact": "",
+  "contacts": {
     "security": "security@numer.ai"
   }
-
 }

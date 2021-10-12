@@ -5,7 +5,7 @@
     "github": "axieinfinity",
     "twitter": "AxieInfinity",
     "everest": "0x6ea640baca38c159f521c91809afdd68099d04f7",
-    "coingecko": "coins/uniswap"
+    "coingecko": "coins/axie-infinity"
   },
   "token": {
     "chainId": 1,
