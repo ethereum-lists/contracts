@@ -1,5 +1,5 @@
 {
-  "project": "DFI.money",
-  "name": "DFI.mon",
+  "project": "dfi_money",
+  "name": "DFI.money",
   "source": "coingecko"
 }
