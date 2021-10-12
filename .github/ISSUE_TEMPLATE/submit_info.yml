@@ -1,0 +1,75 @@
+name: "Submit new entries"
+description: "Create or update project or contracts entries"
+title: "Update info for PROJECT_NAME"
+labels: ["update info"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        # Project Info
+
+        Use this form to submit info on your project and any deployed contracts. You can make new submissions if you deploy new contracts or need to update any info later down the road. Please only fill this form if you're a user who's visibly a member of the project's organization in Github.
+  - type: input
+    id: project-id
+    attributes:
+      label: Project ID
+      description: Shortname for your project in `snake_case` to use as identifier. Your project's info will be tracked in a file with this name in the `projects` folder of the repository.
+      placeholder: example_project
+    validations:
+      required: true
+  - type: input
+    id: project-name
+    attributes:
+      label: Project Name
+      description: Friendly name for your project. If not set, will use the existing name, and default to a titleized version of the ID.
+      placeholder: Example Project
+    validations:
+      required: false
+  - type: input
+    id: github-org
+    attributes:
+      label: Github Organization
+      description: Name of the github organization for your project.
+      placeholder: example
+    validations:
+      required: false
+  - type: input
+    id: security-contact
+    attributes:
+      label: Security Contact Email
+      description: Email to reach out to if a vulnerability is found in one of the project's contracts.
+      placeholder: security@example.com
+    validations:
+      required: false
+  - type: markdown
+    attributes:
+      value: |
+        # Contracts Info
+
+        Add here any new contract deployments for your project. If a security researcher finds an issue on any of the contracts you report here, they will be able reach out to you via the security contact info for your project.
+  - type: dropdown
+    id: chain
+    attributes:
+      label: Network
+      description: Network where the contracts are deployed. Required if you submit at least a contract address. Only include production deployments.
+      options:
+        - Ethereum Mainnet (1)
+        - Optimistic Ethereum (10)
+        - Binance Smart Chain (56)
+        - xDAI (100)
+        - Fuse (122)
+        - Polygon (137)
+        - Fantom Opera (250)
+        - Arbitrum (42161)
+    validations:
+      required: false
+  - type: textarea
+    id: contract-addresses
+    attributes:
+      label: Contract Addresses
+      description: List of contract addresses. Enter one address per line, optionally adding a name for each contract after the address.
+      render: text
+      placeholder: |
+        0xE592427A0AEce92De3Edee1F18E0157C05861564 SwapRouter
+        0xb27308f9F90D607463bb33eA1BeBb41C27CE5AB6 Quoter
+        0xbfd8137f7d1516D3ea5cA83523914859ec47F573 TickLens
