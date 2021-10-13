@@ -8,10 +8,9 @@
   },
   "token": {
     "chainId": 1,
-    "address": "p0x6c28aef8977c9b773996d0e8376d2ee379446f2f",
+    "address": "0x6c28aef8977c9b773996d0e8376d2ee379446f2f",
     "symbol": "QUICK",
     "name": "Quickswap",
     "decimals": 18
   }
-
 }
