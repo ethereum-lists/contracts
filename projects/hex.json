@@ -1,3 +1,20 @@
 {
-  "name": "Hex"
+  "name": "Hex",
+  "website": "https://hex.com/",
+  "social": {
+    "github": "HexCommunity",
+    "twitter": "HEXcrypto",
+    "everest": "0xc1cb2a868c3dde263d805ab6634f36797845f740",
+    "coingecko": "coins/hex"
+  },
+  "token": {
+    "chainId": 1,
+    "address": "0x2b591e99afe9f32eaa6214f7b7629768c40eeb39",
+    "symbol": "HEX",
+    "name": "HEX",
+    "decimals": 8
+  },
+  "contacts": {
+    "contact":"contact@HEX.COM"
+  }
 }

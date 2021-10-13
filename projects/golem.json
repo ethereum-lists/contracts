@@ -1,3 +1,21 @@
 {
-  "name": "Golem"
+  "name": "Golem",
+  "website": "https://www.golem.network/",
+  "social": {
+    "github": "golemfactory",
+    "twitter": "golemproject",
+    "everest": "0x4d3e732dab61531440f0e478282f0a25dad40f62",
+    "coingecko": "coins/golem"
+  },
+  "token": {
+    "chainId": 1,
+    "address": "0x7dd9c5cba05e151c895fde1cf355c9a1d5da6429",
+    "symbol": "GLM",
+    "name": "Golem",
+    "decimals": 18
+  },
+  "contacts": {
+    "contact": "contact@golem.network"
+  }
+
 }

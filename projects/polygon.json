@@ -1,3 +1,21 @@
 {
-  "name": "Polygon"
+  "name": "Polygon",
+  "website": "https://polygon.technology",
+  "social": {
+    "github": "maticnetwork",
+    "twitter": "0xPolygon",
+    "everest": "0x8b3e91b60525fc9159fe74e29b12090b4e919698",
+    "coingecko": "coins/polygon"
+  },
+  "token": {
+    "chainId": 1,
+    "address": "0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0",
+    "symbol": "MATIC",
+    "name": "Polygon",
+    "decimals": 18
+  },
+    "contacts": {
+    "contact": "info@matic.network"
+  }
+
 }

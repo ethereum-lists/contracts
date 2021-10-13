@@ -1,3 +1,17 @@
 {
-  "name": "Maker"
+  "name": "Maker",
+  "website": "https://makerdao.com/en/",
+  "social": {
+    "github": "makerdao",
+    "twitter": "MakerDAO",
+    "everest": "0xbabb5eed78212ab2db6705e6dfd53e7e5eaca437",
+    "coingecko": "coins/maker"
+  },
+  "token": {
+    "chainId": 1,
+    "address": "0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2",
+    "symbol": "MKR",
+    "name": "Maker",
+    "decimals": 18
+  }
 }

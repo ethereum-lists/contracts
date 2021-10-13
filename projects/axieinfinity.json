@@ -1,3 +1,21 @@
 {
-  "name": "Axieinfinity"
+  "name": "Axieinfinity",
+  "website": "https://axieinfinity.com/",
+  "social": {
+    "github": "axieinfinity",
+    "twitter": "AxieInfinity",
+    "everest": "0x6ea640baca38c159f521c91809afdd68099d04f7",
+    "coingecko": "coins/axie-infinity"
+  },
+  "token": {
+    "chainId": 1,
+    "address": "0xbb0e17ef65f82ab018d8edd776e8dd940327b28b",
+    "symbol": "AXS",
+    "name": "Axie Infinity",
+    "decimals": 18
+  },
+   "contacts": {
+    "contact": "hello@axieinfinity.com"
+  }
+
 }

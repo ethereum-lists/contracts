@@ -1,3 +1,21 @@
 {
-  "name": "Quant Network"
+  "name": "Quant Network",
+  "website": "https://www.quant.network/",
+  "social": {
+    "github": "quantnetwork",
+    "twitter": "quant_network",
+    "everest": "0x009bc18d0eff1bcc1018ec877dc9772d48cc01db",
+    "coingecko": "coins/quant"
+  },
+  "token": {
+    "chainId": 1,
+    "address": "0x4a220e6096b25eadb88358cb44068a3248254675",
+    "symbol": "QNT",
+    "name": "Quant",
+    "decimals": 18
+  },
+    "contacts": {
+    "contact": "support@quant.network"
+  }
+
 }

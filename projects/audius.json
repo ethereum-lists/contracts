@@ -1,3 +1,21 @@
 {
-  "name": "Audius"
+  "name": "Audius",
+  "website": "https://audius.co/",
+  "social": {
+    "github": "AudiusProject",
+    "twitter": "AudiusProject",
+    "everest": "0x06df39f936f86311ccc24a3a76fe8ae52be3cbd5",
+    "coingecko": "coins/audius"
+  },
+  "token": {
+    "chainId": 1,
+    "address": "0x18aaa7115705e8be94bffebde57af9bfc265b998",
+    "symbol": "AUDIO",
+    "name": "Audius",
+    "decimals": 18
+  },
+    "contacts": {
+    "contact": "careers@Audius.co"
+  }
+
 }

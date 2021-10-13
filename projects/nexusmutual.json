@@ -1,3 +1,21 @@
 {
-  "name": "Nexusmutual"
+  "name": "Nexusmutual",
+  "website": "https://nexusmutual.io/",
+  "social": {
+    "github": "NexusMutual",
+    "twitter": "NexusMutual",
+    "everest": "0x93c0b8eccd5ca83b18d9a493c44fb30cce826d4f",
+    "coingecko": "coins/nexus-mutual"
+  },
+  "token": {
+    "chainId": 1,
+    "address": "0xd7c49cee7e9188cca6ad8ff264c1da2e69d4cf3b",
+    "symbol": "NXM",
+    "name": "Nexus Mutual",
+    "decimals": 18
+  },
+  "contacts": {
+    "contact": "info@nexusmutual.io"
+  }
+
 }

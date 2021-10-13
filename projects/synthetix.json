@@ -1,3 +1,21 @@
 {
-  "name": "Synthetix"
-}
+  "name": "Synthetix",
+  "website": "https://www.synthetix.io/",
+  "social": {
+    "github": "synthetixio",
+    "twitter": "synthetix_io",
+    "everest": "0x957a4ecd9b02e2f5021f5aa12cdb8d3201da81c8",
+    "coingecko": "coins/synthetix-network-token"
+  },
+  "token": {
+    "chainId": 1,
+    "address": "0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f",
+    "symbol": "SNX",
+    "name": "Synthetix Network Token",
+    "decimals": 18
+  },
+    "contacts": {
+    "contact": "info@synthetix.io"
+  }
+
+ }

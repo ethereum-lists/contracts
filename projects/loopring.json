@@ -1,3 +1,20 @@
 {
-  "name": "Loopring"
+  "name": "Loopring",
+  "website": "https://loopring.org/#/",
+  "social": {
+    "github": "Loopring",
+    "twitter": "loopringorg",
+    "everest": "0x15c636c7f7d509620764df8963d8c9c70c319456",
+    "coingecko": "coins/loopring"
+  },
+  "token": {
+    "chainId": 1,
+    "address": "0xbbbbca6a901c926f240b89eacb641d8aec7aeafd",
+    "symbol": "LRC",
+    "name": "Loopring",
+    "decimals": 18
+  },
+  "contacts": {
+    "contact": "foundation@loopring.org"
+  }
 }

@@ -1,3 +1,22 @@
 {
-  "name": "Dego Finance"
+  "name": "Dego Finance",
+  "website": "https://dego.finance/home",
+  "social": {
+    "github": "dego-labs",
+    "twitter": "dego_finance",
+    "everest": "0x9971a23948e90ebb5beaaf442e63b805968207f4",
+    "coingecko": "coins/dego-finance"
+  },
+  "token": {
+    "chainId": 1,
+    "address": "0x88ef27e69108b2633f8e1c184cc37940a075cc02",
+    "symbol": "DEGO",
+    "name": "Dego Finance",
+    "decimals": 18
+  },
+    "contacts": {
+    "contact": "contact@dego.finance"
+  }
+
+
 }

@@ -1,3 +1,20 @@
 {
-  "name": "Keep"
+  "name": "Keep",
+  "website": "https://keep.network/",
+  "social": {
+    "github": "keep-network/",
+    "twitter": "keep_project",
+    "everest": "0x28597775fc2959438310c1127ef1d5da2ef7fd60",
+    "coingecko": "coins/keep-network"
+  },
+  "token": {
+    "chainId": 1,
+    "address": "0x85eee30c52b0b379b046fb0f85f4f3dc3009afec",
+    "symbol": "KEEP",
+    "name": "Keep Network",
+    "decimals": 18
+  },
+  "contacts": {
+    "contact": "shh@keep.network"
+  }
 }

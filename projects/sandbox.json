@@ -1,3 +1,20 @@
 {
-  "name": "Sandbox"
+  "name": "Sandbox",
+  "website": "https://www.sandbox.game",
+  "social": {
+    "twitter": "TheSandboxGame",
+    "github": "thesandboxgame",
+    "everest": "0xb355c8c80b47b82ba962659a8d6e6fa5038ccc68",
+    "coingecko": "coins/the-sandbox"
+  },
+  "token": {
+    "chainId": 1,
+    "address": "0x3845badade8e6dff049820680d1f14bd3903a5d0",
+    "symbol": "SAND",
+    "name": "The Sandbox",
+    "decimals": 18
+  },
+  "contacts": {
+    "contact": "contact@sandbox.game"
+  }
 }

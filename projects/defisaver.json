@@ -1,3 +1,9 @@
 {
-  "name": "Defisaver"
+  "name": "Defisaver",
+  "website": "https://defisaver.com/",
+  "social": {
+    "twitter": "DeFiSaver",
+    "everest": "0xf2ea7446efd93b2d7b556eb309dae07e7f841274"
+  }
+
 }

@@ -1,3 +1,20 @@
 {
-  "name": "Dydx"
+  "name": "Dydx",
+  "website": "https://dydx.exchange/",
+  "social": {
+    "github": "dydxprotocol",
+    "twitter": "dydxprotocol",
+    "everest": "0x2cbb82377cacac5dabfe7c3ba04c08492de3f505",
+    "coingecko": "coins/dydx"
+  },
+  "token": {
+    "chainId": 1,
+    "address": "0x92d6c1e31e14520e676a687f0a93788b716beff5",
+    "symbol": "DYDX",
+    "name": "dYdX",
+    "decimals": 18
+  },
+    "contacts": {
+    "contact": "contact@dydx.exchange"
+  }
 }

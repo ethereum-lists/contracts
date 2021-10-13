@@ -1,3 +1,20 @@
 {
-  "name": "Gnosis"
+  "name": "Gnosis",
+  "website": "https://gnosis.io/",
+  "social": {
+    "github": "gnosis",
+    "twitter": "gnosisPM",
+    "everest": "0xf26bf7dbc1a279e814e5c35c533df79e0f155754",
+    "coingecko": "coins/gnosis"
+  },
+  "token": {
+    "chainId": 1,
+    "address": "0x6810e776880c02933d47db1b9fc05908e5386b96",
+    "symbol": "GNO",
+    "name": "Gnosis",
+    "decimals": 18
+  },
+  "contacts": {
+    "contact": "info@gnosis.io"
+  }
 }

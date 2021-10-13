@@ -1,3 +1,9 @@
 {
-  "name": "Coinbase"
+  "name": "Coinbase",
+  "website": "https://www.coinbase.com/",
+  "social": {
+    "github": "coinbase",
+    "twitter": "coinbase",
+    "everest": "0x8d17b937b28838ec02800f9136328962d42c8919"
+  }
 }

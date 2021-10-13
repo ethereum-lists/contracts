@@ -1,3 +1,20 @@
 {
-  "name": "Hegic"
+  "name": "Hegic",
+  "website": "https://www.hegic.co/",
+  "social": {
+    "github": "hegic",
+    "twitter": "HegicOptions",
+    "everest": "0x7a98ba5471aa8c3db9845860c47354e09255ba4d",
+    "coingecko": "coins/hegic"
+  },
+  "token": {
+    "chainId": 1,
+    "address": "0x584bc13c7d411c00c01a62e8019472de68768430",
+    "symbol": "HEGIC",
+    "name": "Hegic",
+    "decimals": 18
+  },
+  "contacts": {
+    "contact": "help@hegic.co"
+  }
 }

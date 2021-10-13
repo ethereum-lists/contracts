@@ -1,3 +1,20 @@
 {
-  "name": "Instadapp"
+  "name": "Instadapp",
+  "website": "https://instadapp.io/",
+  "social": {
+    "github": "instadapp",
+    "twitter": "Instadapp",
+    "everest": "0x0431b6674a77982d327a0166df9163663c209da9",
+    "coingecko": "coins/instadapp"
+  },
+  "token": {
+    "chainId": 1,
+    "address": "0x6f40d4a6237c257fff2db00fa0510deeecd303eb",
+    "symbol": "INST",
+    "name": "Instadapp",
+    "decimals": 18
+  },
+  "contacts": {
+    "contact": "info@instadapp.io"
+  }
 }

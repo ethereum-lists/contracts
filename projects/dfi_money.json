@@ -1,0 +1,20 @@
+{
+  "name": "DFI.money",
+  "website": "https://dfi.money/#/",
+  "social": {
+    "github": "yfii",
+    "twitter": "DfiMoney",
+    "everest": "0xd4cd64a441e935d7ed6f1678cfada7267de15044",
+    "coingecko": "coins/dfi-money"
+  },
+  "token": {
+    "chainId": 1,
+    "address": "0xa1d0e215a23d7030842fc67ce582a6afa3ccab83",
+    "symbol": "YFII",
+    "name": "DFI.money",
+    "decimals": 18
+  },
+  "contacts": {
+    "contact": "gaojin@dfi.money"
+  }
+}

@@ -1,3 +1,20 @@
 {
-  "name": "Enzyme"
+  "name": "Enzyme",
+  "website": "https://enzyme.finance/",
+  "social": {
+    "github": "enzymefinance",
+    "twitter": "enzymefinance",
+    "everest": "0xb27460a5bd96b519ee582df6d2a2b2af39c58bd5",
+    "coingecko": "coins/enzyme"
+  },
+  "token": {
+    "chainId": 1,
+    "address": "0xec67005c4e498ec7f55e092bd1d35cbc47c91892",
+    "symbol": "MLN",
+    "name": "Enzyme",
+    "decimals": 18
+  },
+    "contacts": {
+    "contact": "council@enzyme.finance"
+  }
 }

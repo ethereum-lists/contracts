@@ -1,3 +1,20 @@
 {
-  "name": "Chainlink"
+  "name": "Chainlink",
+  "website": "https://chain.link/",
+  "social": {
+    "github": "smartcontractkit",
+    "twitter": "chainlink",
+    "everest": "0xba069cb801930e11a6592df76cd0c5357ea2ca0a",
+    "coingecko": "coins/chainlink"
+  },
+  "token": {
+    "chainId": 1,
+    "address": "0x514910771af9ca656af840dff83e8264ecf986ca",
+    "symbol": "LINK",
+    "name": "Chainlink",
+    "decimals": 18
+  },
+  "contacts": {
+    "contact": "press@chain.link"
+  }
 }

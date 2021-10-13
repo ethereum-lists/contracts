@@ -1,0 +1,21 @@
+{
+  "name": "Orign Protocol",
+  "website": "https://www.originprotocol.com/",
+  "social": {
+    "github": "originprotocol",
+    "twitter": "OriginProtocol",
+    "everest": "0x6ce9b0aa6ea5d3c80fb87c91995a6c025ff6f026",
+    "coingecko": "coins/origin-protocol"
+  },
+  "token": {
+    "chainId": 1,
+    "address": "0x8207c1ffc5b6804f6024322ccf34f29c3541ae26",
+    "symbol": "OGN",
+    "name": "Origin Protocol",
+    "decimals": 18
+    },
+  "contacts": {
+    "contact": "info@originprotocol.com"
+  }
+
+  }

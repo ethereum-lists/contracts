@@ -1,3 +1,21 @@
 {
-  "name": "Augur"
+  "name": "Augur",
+  "website": "https://www.augur.net/",
+  "social": {
+    "github": "AugurProject",
+    "twitter": "AugurProject",
+    "everest": "0xa2e07f422b5d7cbbfca764e53b251484ecf945fa",
+    "coingecko": "coins/augur"
+  },
+  "token": {
+    "chainId": 1,
+    "address": "0x4906846944e59bdd88a00de614cde55d0f894c41",
+    "symbol": "REP",
+    "name": "Augur",
+    "decimals": 18
+  },
+  "contacts": {
+    "contact": "contact@pm-ltd.net",
+    "security": "bounty@augur.net"
+  }
 }

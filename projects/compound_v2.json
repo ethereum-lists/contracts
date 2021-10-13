@@ -1,3 +1,17 @@
 {
-  "name": "Compound V2"
+  "name": "Compound V2",
+  "website": "https://compound.finance/",
+  "social": {
+    "github": "Compound",
+    "twitter": "compoundfinance",
+    "everest": "0x9c6983d688f1f65ad6224c8151f3c89dd39e6472",
+    "coingecko": "coins/compound"
+  },
+  "token": {
+    "chainId": 1,
+    "address": "0xc00e94cb662c3520282e6f5717214004a7f26888",
+    "symbol": "COMP",
+    "name": "Compound",
+    "decimals": 18
+  }
 }

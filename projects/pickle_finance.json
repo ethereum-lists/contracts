@@ -1,3 +1,17 @@
 {
-  "name": "Pickle Finance"
-}
+  "name": "Pickle Finance",
+  "website": "https://www.pickle.finance/",
+  "social": {
+    "github": "pickle-finance",
+    "twitter": "picklefinance",
+    "everest": "0x29db4fadf9f9f38eda393f46f7e360d2d5e76b7b"
+  },
+  "token": {
+    "chainId": 1,
+    "address": "0x429881672b9ae42b8eba0e26cd9c73711b891ca5",
+    "symbol": "PICKLE",
+    "name": "Pickle Finance",
+    "decimals": 18
+    }
+
+  }

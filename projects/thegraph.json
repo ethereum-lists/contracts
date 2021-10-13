@@ -1,3 +1,22 @@
 {
-  "name": "Thegraph"
+  "name": "The Graph",
+  "website": "https://thegraph.com",
+  "social": {
+    "github": "graphprotocol",
+    "twitter": "graphprotocol",
+    "everest": "0xa2e07f422b5d7cbbfca764e53b251484ecf945fa",
+    "coingecko": "coins/the-graph"
+  },
+  "token": {
+    "chainId": 1,
+    "address": "0xc944e90c64b2c07662a292be6244bdf05cda44a7",
+    "symbol": "GRT",
+    "name": "The Graph",
+    "decimals": 18
+  },
+    "contacts": {
+    "contact": "info@thegraph.com"
+  }
+
+
 }

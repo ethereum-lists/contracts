@@ -1,3 +1,20 @@
 {
-  "name": "Umaproject"
+  "name": "Umaproject",
+  "website": "https://umaproject.org/",
+  "social": {
+    "github": "umaprotocol",
+    "twitter": "UMAprotocol",
+    "everest": "0x9ed51155fa709f1bc3b26b8fec03df7010177362",
+    "coingecko": "coins/uma"
+  },
+  "token": {
+    "chainId": 1,
+    "address": "0x04fa0d235c4abf4bcf4787af4cf447de572ef828",
+    "symbol": "UMA",
+    "name": "UMA",
+    "decimals": 18
+  },
+  "contacts": {
+    "contact": "hello@umaproject.org"
+  }
 }
