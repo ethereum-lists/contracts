@@ -1,8 +1,0 @@
-{
-  "project": "balancer_v2",
-  "features": {
-    "factory": "0x48767f9f868a4a7b86a90736632f6e44c2df7fa9"
-  },
-  "name": "InvestmentPool",
-  "source": "dune"
-}

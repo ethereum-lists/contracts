@@ -1,8 +1,0 @@
-{
-  "project": "uniswap_v3",
-  "features": {
-    "factory": "0xdeaddeaddeaddeaddeaddeaddeaddeaddead0006"
-  },
-  "name": "Pair",
-  "source": "dune"
-}

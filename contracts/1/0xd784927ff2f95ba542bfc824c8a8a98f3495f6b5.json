@@ -1,8 +1,0 @@
-{
-  "project": "aave_v2",
-  "features": {
-    "factory": "0x65e3091d8f28b462f579d1e4ac693f5e88951787"
-  },
-  "name": "IncentivesController",
-  "source": "dune"
-}

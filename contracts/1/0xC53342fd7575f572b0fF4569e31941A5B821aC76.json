@@ -1,0 +1,8 @@
+{
+  "project": "volmex_v1",
+  "features": {
+    "factory": "0x3ceea6a3c98c2489b09b820f62fe568b5e21e797"
+  },
+  "name": "VolmexPositionToken",
+  "source": "dune"
+}

@@ -1,8 +1,0 @@
-{
-  "project": "wildcredit",
-  "features": {
-    "factory": "0x23b74796b72f995e14a5e3ff2156dad9653256cf"
-  },
-  "name": "LendingPair",
-  "source": "dune"
-}

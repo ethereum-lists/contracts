@@ -1,0 +1,8 @@
+{
+  "project": "rocketfactory",
+  "features": {
+    "factory": "0x76c54c77a58c376ff9533b3582b1f73c49049126"
+  },
+  "name": "RocketFactory",
+  "source": "dune"
+}

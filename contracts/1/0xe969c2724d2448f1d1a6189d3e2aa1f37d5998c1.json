@@ -1,5 +1,0 @@
-{
-  "project": "optimism",
-  "name": "OVM_StateCommitmentChain",
-  "source": "dune"
-}

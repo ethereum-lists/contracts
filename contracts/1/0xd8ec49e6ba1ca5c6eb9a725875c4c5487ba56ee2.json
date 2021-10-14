@@ -1,8 +1,0 @@
-{
-  "project": "ocean_v3",
-  "features": {
-    "factory": "0x57317f97e9ea49ebd19f7c9bb7c180b8cdcbdeb9"
-  },
-  "name": "ocean_datatoken_template",
-  "source": "dune"
-}

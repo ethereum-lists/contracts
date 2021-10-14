@@ -1,0 +1,5 @@
+{
+  "project": "bancor",
+  "name": "LiquidityPoolV2Converter",
+  "source": "dune"
+}

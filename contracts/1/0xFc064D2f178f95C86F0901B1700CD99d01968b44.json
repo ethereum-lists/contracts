@@ -1,0 +1,8 @@
+{
+  "project": "gysr_vsp_eth_pool",
+  "features": {
+    "factory": "0xcada3423d33259a94c1ed1a7aeecb73b87d0b684"
+  },
+  "name": "Gysr",
+  "source": "dune"
+}

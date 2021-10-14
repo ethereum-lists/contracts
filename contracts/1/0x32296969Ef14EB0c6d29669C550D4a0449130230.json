@@ -1,0 +1,8 @@
+{
+  "project": "balancer_v2",
+  "features": {
+    "factory": "0x67d27634e44793fe63c467035e31ea8635117cd4"
+  },
+  "name": "MetaStablePool",
+  "source": "dune"
+}

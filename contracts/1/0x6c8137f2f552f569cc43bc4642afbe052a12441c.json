@@ -1,8 +1,0 @@
-{
-  "project": "setprotocol_v2",
-  "features": {
-    "factory": "0xe3a1340be2b4c8de9e20ab185cff37480521d9af"
-  },
-  "name": "SupplyCapAllowedCallerIssuanceHook",
-  "source": "dune"
-}

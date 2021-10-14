@@ -1,0 +1,5 @@
+{
+  "project": "dydx",
+  "name": "WethPriceOracle",
+  "source": "dune"
+}

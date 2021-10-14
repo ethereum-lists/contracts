@@ -1,8 +1,0 @@
-{
-  "project": "goldfinch",
-  "features": {
-    "factory": "0xa083880f7a5df37bf00a25380c3eb9af9cd92d8f"
-  },
-  "name": "TranchedPool",
-  "source": "dune"
-}

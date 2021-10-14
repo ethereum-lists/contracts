@@ -1,8 +1,0 @@
-{
-  "project": "balancer_v2",
-  "features": {
-    "factory": "0xa5bf2ddf098bb0ef6d120c98217dd6b141c74ee0"
-  },
-  "name": "WeightedPool",
-  "source": "dune"
-}

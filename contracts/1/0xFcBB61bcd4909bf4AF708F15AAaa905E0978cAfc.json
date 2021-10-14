@@ -1,0 +1,8 @@
+{
+  "project": "piedao",
+  "features": {
+    "factory": "0x3ffd017a3608498b8d0e8a365429f2066e62a886"
+  },
+  "name": "ReferralRewards",
+  "source": "dune"
+}

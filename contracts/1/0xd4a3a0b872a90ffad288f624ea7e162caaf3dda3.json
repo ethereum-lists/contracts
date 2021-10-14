@@ -1,8 +1,0 @@
-{
-  "project": "bridgemutual",
-  "features": {
-    "factory": "0x4cefb2f1509595b8f9ea073c1ac44abd42b283e9"
-  },
-  "name": "BMIStaking",
-  "source": "dune"
-}

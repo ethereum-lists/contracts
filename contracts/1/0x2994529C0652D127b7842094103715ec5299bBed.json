@@ -1,0 +1,8 @@
+{
+  "project": "yearn",
+  "features": {
+    "factory": "0x2d407ddb06311396fe14d4b49da5f0471447d45c"
+  },
+  "name": "BUSD_yVault",
+  "source": "dune"
+}

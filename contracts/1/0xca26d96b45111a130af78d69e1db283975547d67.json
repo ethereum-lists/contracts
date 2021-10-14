@@ -1,8 +1,0 @@
-{
-  "project": "fuji",
-  "features": {
-    "factory": "0xb98d4d4e205aff4d4755e9df19bd0b8bd4e0f148"
-  },
-  "name": "VaultETHUSDT",
-  "source": "dune"
-}

@@ -1,8 +1,0 @@
-{
-  "project": "primitive",
-  "features": {
-    "factory": "0xa4accc3dff7bd0d07fa02e39cd12e1a62d15f90f"
-  },
-  "name": "Option",
-  "source": "dune"
-}

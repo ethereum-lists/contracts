@@ -1,5 +1,0 @@
-{
-  "project": "optimism",
-  "name": "OVM_StateTransitionerFactory",
-  "source": "dune"
-}

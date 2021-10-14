@@ -1,0 +1,8 @@
+{
+  "project": "fractional_art",
+  "features": {
+    "factory": "0x85aa7f78bdb2de8f3e0c0010d99ad5853ffcfc63"
+  },
+  "name": "TokenVault",
+  "source": "dune"
+}

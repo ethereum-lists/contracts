@@ -1,0 +1,5 @@
+{
+  "project": "lido",
+  "name": "steth",
+  "source": "dune"
+}

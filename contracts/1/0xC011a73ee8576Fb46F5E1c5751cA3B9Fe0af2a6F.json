@@ -1,0 +1,5 @@
+{
+  "project": "synthetix",
+  "name": "Proxy SNX Token",
+  "source": "coingecko"
+}

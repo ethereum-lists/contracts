@@ -1,8 +1,0 @@
-{
-  "project": "mirror",
-  "features": {
-    "factory": "0x0660b3d8c7c02f089ede18a1ee76850103dc5485"
-  },
-  "name": "AllocatedEditionsLogic",
-  "source": "dune"
-}

@@ -1,0 +1,8 @@
+{
+  "project": "mirror",
+  "features": {
+    "factory": "0xfcf08ecb85c0b938186a259b3eaf48f9f671b3c0"
+  },
+  "name": "DroppableEditionsLogic",
+  "source": "dune"
+}

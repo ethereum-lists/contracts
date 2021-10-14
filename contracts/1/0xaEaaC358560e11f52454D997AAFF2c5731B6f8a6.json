@@ -1,0 +1,5 @@
+{
+  "project": "tornado_cash",
+  "name": "erc20",
+  "source": "dune"
+}

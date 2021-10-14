@@ -1,5 +1,0 @@
-{
-  "project": "gnosis_multisig",
-  "name": "MultiSigWalletWithDailyLimitFactory",
-  "source": "dune"
-}

@@ -1,0 +1,5 @@
+{
+  "project": "mirror",
+  "name": "MirrorWriteToken",
+  "source": "dune"
+}

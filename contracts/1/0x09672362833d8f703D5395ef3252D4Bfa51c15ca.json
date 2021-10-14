@@ -1,0 +1,5 @@
+{
+  "project": "curvefi",
+  "name": "husd_deposit",
+  "source": "dune"
+}

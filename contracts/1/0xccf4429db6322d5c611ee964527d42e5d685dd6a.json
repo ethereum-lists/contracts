@@ -1,8 +1,0 @@
-{
-  "project": "compound_v2",
-  "features": {
-    "factory": "0x54a37d93e57c5da659f508069cf65a381b61e189"
-  },
-  "name": "CErc20Delegator",
-  "source": "dune"
-}

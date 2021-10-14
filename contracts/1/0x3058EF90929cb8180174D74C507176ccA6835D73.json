@@ -1,0 +1,8 @@
+{
+  "project": "dodo",
+  "features": {
+    "factory": "0x5e5a7b76462e4bdf83aa98795644281bdba80b88"
+  },
+  "name": "DSP",
+  "source": "dune"
+}

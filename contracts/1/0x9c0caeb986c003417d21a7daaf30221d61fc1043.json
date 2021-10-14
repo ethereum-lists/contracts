@@ -1,8 +1,0 @@
-{
-  "project": "rari_capital",
-  "features": {
-    "factory": "0xb8f02248d53f7edfa38e79263e743e9390f81942"
-  },
-  "name": "RariGovernanceTokenDistributor",
-  "source": "dune"
-}

@@ -1,0 +1,8 @@
+{
+  "project": "setprotocol_v2",
+  "features": {
+    "factory": "0x69bdb276a17dd90f9d3a545944ccb20e593ae8e3"
+  },
+  "name": "FeeSplitAdapter",
+  "source": "dune"
+}

@@ -1,0 +1,5 @@
+{
+  "project": "component",
+  "name": "usdc_usdp_usdt",
+  "source": "dune"
+}

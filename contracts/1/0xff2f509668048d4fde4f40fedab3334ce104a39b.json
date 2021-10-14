@@ -1,8 +1,0 @@
-{
-  "project": "mirror",
-  "features": {
-    "factory": "0x224b867ba9db850671f5a0fc6b75a2a825ce8e19"
-  },
-  "name": "TieredCrowdfundLogic",
-  "source": "dune"
-}

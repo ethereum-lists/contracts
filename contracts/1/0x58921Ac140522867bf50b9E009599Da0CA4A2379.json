@@ -1,0 +1,5 @@
+{
+  "project": "chainlink",
+  "name": "BADGER_ETH_oracle",
+  "source": "dune"
+}

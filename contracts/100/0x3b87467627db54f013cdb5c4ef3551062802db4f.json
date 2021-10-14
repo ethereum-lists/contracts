@@ -1,8 +1,0 @@
-{
-  "project": "unlock",
-  "features": {
-    "factory": "0x14bb3586ce2946e71b95fe00fc73dd30ed830863"
-  },
-  "name": "PublicLock",
-  "source": "dune"
-}

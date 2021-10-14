@@ -1,8 +1,0 @@
-{
-  "project": "kyber",
-  "features": {
-    "factory": "0x5f1fe642060b5b9658c15721ea22e982643c095c"
-  },
-  "name": "DMMPool",
-  "source": "dune"
-}

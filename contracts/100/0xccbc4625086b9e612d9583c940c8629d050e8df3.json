@@ -1,8 +1,0 @@
-{
-  "project": "moloch_v2",
-  "features": {
-    "factory": "0x0f50b2f3165db96614fbb6e4262716acc9f9e098"
-  },
-  "name": "Moloch",
-  "source": "dune"
-}

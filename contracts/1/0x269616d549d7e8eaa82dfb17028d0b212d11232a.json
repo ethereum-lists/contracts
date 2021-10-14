@@ -1,8 +1,0 @@
-{
-  "project": "nftx_v2",
-  "features": {
-    "factory": "0xbe86f647b167567525ccaafcd6f881f1ee558216"
-  },
-  "name": "NFTXVaultUpgradeable",
-  "source": "dune"
-}

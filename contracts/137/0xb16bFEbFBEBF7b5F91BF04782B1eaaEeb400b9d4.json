@@ -1,0 +1,8 @@
+{
+  "project": "siren_v2",
+  "features": {
+    "factory": "0x0cdaa64b47474e02cdfbd811ec9fd2d265cd3a0a"
+  },
+  "name": "MinterAmm",
+  "source": "dune"
+}

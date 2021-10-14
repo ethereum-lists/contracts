@@ -1,0 +1,8 @@
+{
+  "project": "moloch_v2",
+  "features": {
+    "factory": "0x88207daf515e0da1a32399b3f92d128b1bf45294"
+  },
+  "name": "Minion",
+  "source": "dune"
+}

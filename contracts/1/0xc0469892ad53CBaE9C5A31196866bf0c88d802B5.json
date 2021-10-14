@@ -1,0 +1,8 @@
+{
+  "project": "partydao",
+  "features": {
+    "factory": "0xd96ff9e48f095f5a22db5bdffca080bcc3b98c7f"
+  },
+  "name": "PartyBid",
+  "source": "dune"
+}

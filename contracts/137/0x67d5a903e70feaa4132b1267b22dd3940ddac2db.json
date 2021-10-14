@@ -1,8 +1,0 @@
-{
-  "project": "moloch_v2",
-  "features": {
-    "factory": "0xbf9e327d465a4a160fa7805282fb8c7ab892770a"
-  },
-  "name": "WrapNZap",
-  "source": "dune"
-}

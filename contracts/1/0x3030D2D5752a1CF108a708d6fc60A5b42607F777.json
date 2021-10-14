@@ -1,0 +1,5 @@
+{
+  "project": "cudos",
+  "name": "ServiceProvider",
+  "source": "dune"
+}

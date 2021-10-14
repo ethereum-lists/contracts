@@ -1,8 +1,0 @@
-{
-  "project": "boombaby",
-  "features": {
-    "factory": "0x2c1f95ffd8510dd3e16cc04fd43013755f5003b3"
-  },
-  "name": "BoomB",
-  "source": "dune"
-}

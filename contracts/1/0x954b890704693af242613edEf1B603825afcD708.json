@@ -1,0 +1,5 @@
+{
+  "project": "cardstack",
+  "name": "CardstackToken",
+  "source": "dune"
+}

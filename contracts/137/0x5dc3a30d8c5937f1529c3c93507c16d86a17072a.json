@@ -1,8 +1,0 @@
-{
-  "project": "crwbtc",
-  "features": {
-    "factory": "0x11df15f0c90524d3644843e1a137095373138f5a"
-  },
-  "name": "CErc20Delegator",
-  "source": "dune"
-}

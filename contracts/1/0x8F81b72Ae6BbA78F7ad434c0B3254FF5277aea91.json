@@ -1,0 +1,8 @@
+{
+  "project": "mirror",
+  "features": {
+    "factory": "0xb61fed6d59f9bab219f2b9ccab6c8e7016255e44"
+  },
+  "name": "SplitterV2",
+  "source": "dune"
+}

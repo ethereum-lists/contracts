@@ -1,0 +1,8 @@
+{
+  "project": "impermax",
+  "features": {
+    "factory": "0x8c3736e2fe63cc2cd89ee228d9dbcab6ce5b767b"
+  },
+  "name": "Collateral",
+  "source": "dune"
+}

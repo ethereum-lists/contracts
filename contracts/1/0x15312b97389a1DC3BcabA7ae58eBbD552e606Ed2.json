@@ -1,0 +1,8 @@
+{
+  "project": "mirror",
+  "features": {
+    "factory": "0x3527a204a5260a0e36ca695312379370328e4e6c"
+  },
+  "name": "CrowdfundWithPodiumEditionsFactory",
+  "source": "dune"
+}

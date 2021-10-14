@@ -1,8 +1,0 @@
-{
-  "project": "gnosis_safe",
-  "features": {
-    "factory": "0x76e2cfc1f5fa8f6a5b3fc4c8f4788f0116861f9b"
-  },
-  "name": "GnosisSafe",
-  "source": "dune"
-}

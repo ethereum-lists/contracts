@@ -1,8 +1,0 @@
-{
-  "project": "balancer_v2",
-  "features": {
-    "factory": "0x751a0bc0e3f75b38e01cf25bfce7ff36de1c87de"
-  },
-  "name": "LiquidityBootstrappingPool",
-  "source": "dune"
-}

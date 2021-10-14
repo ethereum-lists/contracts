@@ -1,8 +1,0 @@
-{
-  "project": "perp",
-  "features": {
-    "factory": "0x02cc0130ffedf077a848606b7a3e018f7f7434af"
-  },
-  "name": "Amm",
-  "source": "dune"
-}

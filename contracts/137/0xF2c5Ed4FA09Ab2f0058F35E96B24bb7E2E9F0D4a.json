@@ -1,0 +1,8 @@
+{
+  "project": "impermax",
+  "features": {
+    "factory": "0xc12e00de204d58ead5b5ce9054e94aee7747fb6c"
+  },
+  "name": "Borrowable",
+  "source": "dune"
+}

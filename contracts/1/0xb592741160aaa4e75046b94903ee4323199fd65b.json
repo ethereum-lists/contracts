@@ -1,8 +1,0 @@
-{
-  "project": "fractional_art",
-  "features": {
-    "factory": "0xde771104c0c44123d22d39bb716339cd0c3333a1"
-  },
-  "name": "IndexERC721",
-  "source": "dune"
-}

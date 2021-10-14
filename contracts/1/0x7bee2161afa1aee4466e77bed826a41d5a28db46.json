@@ -1,8 +1,0 @@
-{
-  "project": "kashi",
-  "features": {
-    "factory": "0xf5bce5077908a1b7370b9ae04adc565ebd643966"
-  },
-  "name": "KashiPairMediumRiskV1",
-  "source": "dune"
-}

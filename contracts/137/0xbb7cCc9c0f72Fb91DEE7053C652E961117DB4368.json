@@ -1,0 +1,8 @@
+{
+  "project": "impermax",
+  "features": {
+    "factory": "0xcb30a66e72ed90d1b34f78fc0655895fc28bb6cf"
+  },
+  "name": "StakedLPToken0212",
+  "source": "dune"
+}

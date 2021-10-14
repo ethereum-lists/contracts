@@ -1,0 +1,5 @@
+{
+  "project": "bprotocol",
+  "name": "BProxyActions",
+  "source": "dune"
+}

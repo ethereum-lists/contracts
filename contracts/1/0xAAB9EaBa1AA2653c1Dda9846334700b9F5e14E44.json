@@ -1,0 +1,8 @@
+{
+  "project": "ocean_v3",
+  "features": {
+    "factory": "0xbe0083053744ecb871510c88dc0f6b77da162706"
+  },
+  "name": "bpool",
+  "source": "dune"
+}

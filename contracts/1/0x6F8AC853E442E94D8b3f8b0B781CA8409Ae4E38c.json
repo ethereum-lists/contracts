@@ -1,0 +1,5 @@
+{
+  "project": "balancer",
+  "name": "BPool",
+  "source": "dune"
+}

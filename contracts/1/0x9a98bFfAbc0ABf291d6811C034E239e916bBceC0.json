@@ -1,0 +1,8 @@
+{
+  "project": "visor",
+  "features": {
+    "factory": "0x0ac51fb63d1915a77ab7a7bb53b031407584dd4c"
+  },
+  "name": "Hypervisor",
+  "source": "dune"
+}

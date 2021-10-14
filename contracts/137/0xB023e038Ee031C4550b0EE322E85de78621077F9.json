@@ -1,0 +1,8 @@
+{
+  "project": "dfyn",
+  "features": {
+    "factory": "0xe7fb3e833efe5f9c441105eb65ef8b261266423b"
+  },
+  "name": "UniswapV2Pair",
+  "source": "dune"
+}

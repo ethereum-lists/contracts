@@ -1,5 +1,0 @@
-{
-  "project": "egl",
-  "name": "EglContract",
-  "source": "dune"
-}

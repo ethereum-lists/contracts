@@ -1,0 +1,8 @@
+{
+  "project": "wipp",
+  "features": {
+    "factory": "0x74a73135ecd612d530b89fb28125583ed39a5f22"
+  },
+  "name": "WIPUB1",
+  "source": "dune"
+}

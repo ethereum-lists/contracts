@@ -1,8 +1,0 @@
-{
-  "project": "unlock",
-  "features": {
-    "factory": "0x33ab07df7f09e793ddd1e9a25b079989a557119a"
-  },
-  "name": "Unlock",
-  "source": "dune"
-}

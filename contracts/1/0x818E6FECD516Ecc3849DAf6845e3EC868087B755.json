@@ -1,0 +1,5 @@
+{
+  "project": "kyber",
+  "name": "NetworkProxy",
+  "source": "dune"
+}
