@@ -29,8 +29,11 @@ jobs:
         restore-keys: |
           ${{ runner.os }}-go-
     
-    - name: Install json-schema validator
+    - name: Install golang deps
       run: go get neilpa.me/yajsv
+
+    - name: Install python deps
+      run: pip install eth_utils pycryptodome
 
     - name: Update project and contracts
       env:

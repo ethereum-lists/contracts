@@ -14,12 +14,7 @@ fi
 if [[ -n $CONTRACTS ]]; then
   echo -e "Contracts:\n${CONTRACTS:0:1000}"
   echo; echo "Testing contract file names..."
-  for FILE in $CONTRACTS; do
-    if [[ ! $FILE =~ ^contracts/[0-9]+/0x[a-z0-9]{40}\.json$ ]]; then
-      echo " Wrong filename format: $FILE"
-      exit 1
-    fi
-  done
+  echo $CONTRACTS | xargs -n 1000 python scripts/eip-55.py
   echo " OK"
 
   echo; echo "Testing contract entries..."
