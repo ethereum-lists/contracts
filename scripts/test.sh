@@ -27,8 +27,8 @@ if [[ -n $CONTRACTS ]]; then
       echo " Missing project entry: $PROJECT"
       exit 2
     fi
-    echo " OK"
   done
+  echo " OK"
 else
   echo "No contracts to test"
 fi
