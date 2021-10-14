@@ -2,7 +2,7 @@
 
 This list is an effort to identify deployed contracts instances given their chain and address, by listing the project they belong to. The goal is to be able to provide information about an address when a user is interacting with it, as well as tracking security contact information for known projects in the event that a vulnerability is found in a given contract address.
 
-**Work in progress**
+**Work in progress.** The schema of the data may still change.
 
 ## Contributing
 
