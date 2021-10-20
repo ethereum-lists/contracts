@@ -12,7 +12,7 @@ You can ensure to be notified of security vulnerabilities on your projects by ad
 
 To add an existing project to this list, complete the form [here](https://github.com/ethereum-lists/contracts/issues/new?assignees=&labels=update+info&template=submit_info.yml&title=Update+info+for+PROJECT_NAME) including your project's name and security contact info, and a list of contracts deployed that belong to your project. This will automatically create a pull request that will be reviewed by one of the maintainers and merged. You can submit this form multiple times to update your info or register new deployments.
 
-To simplify the process, please open the issue as a user of your project's Github organization. This will make it easier for maintainers to verify that you act on behalf of your project.
+To simplify the process, please open the issue as a user of your project's Github organization. This will make it easier for maintainers to verify that you act on behalf of your project. Otherwise, provide other proof that you are acting on behalf of the project.
 
 If you want to include additional information on your project, such as social links or an associated token, please send a pull request to add that info to the JSON files directly. See below for the data format, and make sure that any changes match the schemas, and that every contract entry has a corresponding project entry.
 
