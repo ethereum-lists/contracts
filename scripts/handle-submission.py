@@ -2,6 +2,7 @@ import sys
 import re
 import json
 import os
+import eth_utils
 
 CONTRACT_ADDRESSES = 'Contract Addresses'
 GITHUB_ORG = 'Github Organization'
@@ -40,6 +41,29 @@ def parse(input):
     result[NETWORK] = match.group(1)
 
   return result
+
+# Adapted from https://github.com/ethereum/EIPs/blob/master/EIPS/eip-55.md
+def checksum_encode(addr_str):
+  addr = addr_str.lower()[2:]
+  checksummed_buffer = ""
+
+  hashed_address = eth_utils.keccak(text=addr).hex()
+
+  for nibble_index, character in enumerate(addr):
+    if character in "0123456789":
+      checksummed_buffer += character
+    elif character in "abcdef":
+      hashed_address_nibble = int(hashed_address[nibble_index], 16)
+      if hashed_address_nibble > 7:
+        checksummed_buffer += character.upper()
+      else:
+        checksummed_buffer += character
+    else:
+      raise eth_utils.ValidationError(
+        f"Unrecognized hex character {character} at position {nibble_index}"
+      )
+
+  return "0x" + checksummed_buffer
 
 def put_project(data):
   if not PROJECT_ID in data: raise Exception("Missing project ID")
@@ -80,7 +104,7 @@ def put_contract(data, address, name):
   if not re.match(r'^0x[A-Fa-f0-9]{40}$', address): raise Exception(f"Invalid contract address {address}")
   
   folder = f"contracts/{data[NETWORK]}"
-  path = f"{folder}/{address.lower()}.json"
+  path = f"{folder}/{checksum_encode(address)}.json"
   
   contract = {}
   if os.path.exists(path):
