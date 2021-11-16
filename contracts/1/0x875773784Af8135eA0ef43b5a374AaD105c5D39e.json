@@ -1,5 +1,5 @@
 {
-  "project": "idle_v4",
-  "name": "IDLE",
-  "source": "dune"
+  "project": "idle_dao",
+  "name": "governance IDLE token",
+  "source": "github-form"
 }
