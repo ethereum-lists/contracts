@@ -1,5 +1,5 @@
 {
-  "project": "foundation",
-  "name": "PercentSplit",
-  "source": "dune"
+  "project": "fnd",
+  "name": "Percent split factory",
+  "source": "github-form"
 }

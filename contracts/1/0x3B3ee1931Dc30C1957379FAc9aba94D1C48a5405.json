@@ -1,5 +1,5 @@
 {
-  "project": "foundation",
-  "name": "nft",
-  "source": "dune"
+  "project": "fnd",
+  "name": "NFT proxy",
+  "source": "github-form"
 }
