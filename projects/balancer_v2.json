@@ -1,3 +1,9 @@
 {
-  "name": "Balancer V2"
+  "name": "Balancer V2",
+  "social": {
+    "github": "balancer-labs"
+  },
+  "contacts": {
+    "security": "security@balancer.finance"
+  }
 }
