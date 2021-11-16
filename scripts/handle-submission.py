@@ -43,7 +43,8 @@ def parse(input):
 
 def put_project(data):
   if not PROJECT_ID in data: raise Exception("Missing project ID")
-  if not re.match(r'^[a-z0-9_]+$', data[PROJECT_ID]): raise Exception(f"Invalid project ID: {data[PROJECT_ID]}")
+  if not re.match(r'^[a-z0-9_\-]+$', data[PROJECT_ID]): raise Exception(f"Invalid project ID: {data[PROJECT_ID]}")
+  data[PROJECT_ID] = data[PROJECT_ID].replace('-', '_')
 
   path = f"projects/{data[PROJECT_ID]}.json"
   project = {}
