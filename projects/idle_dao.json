@@ -1,3 +1,9 @@
 {
-  "name": "Idle Dao"
+  "name": "Idle Finance",
+  "social": {
+    "github": "Idle-Labs"
+  },
+  "contacts": {
+    "security": "security@idle.finance"
+  }
 }

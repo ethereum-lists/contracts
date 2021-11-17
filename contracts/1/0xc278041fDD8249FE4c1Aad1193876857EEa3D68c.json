@@ -1,5 +1,5 @@
 {
-  "project": "idle_v4",
-  "name": "IdleTUSD_v4_Yield",
-  "source": "dune"
+  "project": "idle_dao",
+  "name": "idleTUSDV4",
+  "source": "github-form"
 }

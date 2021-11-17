@@ -1,5 +1,5 @@
 {
-  "project": "idle_v4",
-  "name": "IdleDAI_v4_Risk",
-  "source": "dune"
+  "project": "idle_dao",
+  "name": "idleDAISafeV4",
+  "source": "github-form"
 }

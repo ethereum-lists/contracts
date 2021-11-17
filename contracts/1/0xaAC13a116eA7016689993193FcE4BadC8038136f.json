@@ -1,5 +1,5 @@
 {
-  "project": "idle_v4",
-  "name": "stkIDLE",
-  "source": "dune"
+  "project": "idle_dao",
+  "name": "governance stkIDLE",
+  "source": "github-form"
 }
