@@ -1,9 +1,12 @@
 {
-  "name": "Defisaver",
+  "name": "Defi Saver",
   "website": "https://defisaver.com/",
   "social": {
     "twitter": "DeFiSaver",
-    "everest": "0xf2ea7446efd93b2d7b556eb309dae07e7f841274"
+    "everest": "0xf2ea7446efd93b2d7b556eb309dae07e7f841274",
+    "github": "DecenterApps"
+  },
+  "contacts": {
+    "security": "security@decenter.com"
   }
-
 }
