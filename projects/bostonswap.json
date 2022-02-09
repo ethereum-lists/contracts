@@ -1,0 +1,20 @@
+{
+    "name": "BostonSwap",
+    "website": "https://bostonswapswap.finance/",
+    "social": {
+      "github": "bostonswap",
+      "twitter": "bostonswap",
+      "everest": "0x6b65706622d2AA0bDeA091b8abb19DC256b4D5c4",
+      "coingecko": "coins/bostonswap"
+    },
+    "token": {
+      "chainId": 56,
+      "address": "0x494c23bCC873807200708240179B2bd48F7b71c0",
+      "symbol": "BEANS",
+      "name": "BostonSwap",
+      "decimals": 18
+    },
+    "contacts": {
+      "contact": "BostonSwap75@gmail.com"
+      }
+  }
