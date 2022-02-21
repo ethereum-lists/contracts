@@ -1,0 +1,19 @@
+{
+    "name": "BostonSwap",
+    "website": "https://bostonswap.finance/",
+    "social": {
+      "github": "habitual-ferocity/bostonswap",
+      "twitter": "bostonswap75",
+      "coingecko": "coins/bossswap"
+    },
+    "token": {
+      "chainId": 56,
+      "address": "0x494c23bCC873807200708240179B2bd48F7b71c0",
+      "symbol": "BEANS",
+      "name": "BakedBeans",
+      "decimals": 18
+    },
+    "contacts": {
+      "contact": "BostonSwap75@gmail.com"
+      }
+  }
