@@ -62,14 +62,14 @@ body:
         - Fantom Opera (250)
         - Arbitrum (42161)
     validations:
-      required: false
+      required: true
   - type: textarea
     id: contract-addresses
     attributes:
       label: Contract Addresses
       description: List of contract addresses. Enter one address per line, optionally adding a name for each contract after the address.
       render: text
-      placeholder: |
+      placeholder: |0xb61d17496Da49822a65191c759B42Bc42872A0a3
         0xE592427A0AEce92De3Edee1F18E0157C05861564 SwapRouter
         0xb27308f9F90D607463bb33eA1BeBb41C27CE5AB6 Quoter
         0xbfd8137f7d1516D3ea5cA83523914859ec47F573 TickLens
